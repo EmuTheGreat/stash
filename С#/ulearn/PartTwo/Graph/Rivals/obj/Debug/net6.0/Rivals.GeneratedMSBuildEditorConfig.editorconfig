@@ -12,10 +12,10 @@ build_property.PlatformNeutralAssembly =
 build_property.EnforceExtendedAnalyzerRules = 
 build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property.RootNamespace = Rivals
-build_property.ProjectDir = E:\projects\С#\ulearn\PartTwo\Graph\Rivals\
+build_property.ProjectDir = E:\repositories\c#\С#\ulearn\PartTwo\Graph\Rivals\
 
-[E:/projects/С\#/ulearn/PartTwo/Graph/Rivals/UI/App.axaml]
+[E:/repositories/c\#/С\#/ulearn/PartTwo/Graph/Rivals/UI/App.axaml]
 build_metadata.AdditionalFiles.SourceItemGroup = AvaloniaXaml
 
-[E:/projects/С\#/ulearn/PartTwo/Graph/Rivals/UI/MainWindow.axaml]
+[E:/repositories/c\#/С\#/ulearn/PartTwo/Graph/Rivals/UI/MainWindow.axaml]
 build_metadata.AdditionalFiles.SourceItemGroup = AvaloniaXaml

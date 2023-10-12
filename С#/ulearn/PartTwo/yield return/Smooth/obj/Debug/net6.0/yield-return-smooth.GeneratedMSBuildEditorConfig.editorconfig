@@ -12,10 +12,10 @@ build_property.PlatformNeutralAssembly =
 build_property.EnforceExtendedAnalyzerRules = 
 build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property.RootNamespace = yield
-build_property.ProjectDir = C:\Users\thegr\Desktop\projects\С#\ulearn\PartTwo\yield return\Smooth\
+build_property.ProjectDir = E:\repositories\c#\С#\ulearn\PartTwo\yield return\Smooth\
 
-[C:/Users/thegr/Desktop/projects/С\#/ulearn/PartTwo/yield return/Smooth/UI/App.axaml]
+[E:/repositories/c\#/С\#/ulearn/PartTwo/yield return/Smooth/UI/App.axaml]
 build_metadata.AdditionalFiles.SourceItemGroup = AvaloniaXaml
 
-[C:/Users/thegr/Desktop/projects/С\#/ulearn/PartTwo/yield return/Smooth/UI/MainWindow.axaml]
+[E:/repositories/c\#/С\#/ulearn/PartTwo/yield return/Smooth/UI/MainWindow.axaml]
 build_metadata.AdditionalFiles.SourceItemGroup = AvaloniaXaml

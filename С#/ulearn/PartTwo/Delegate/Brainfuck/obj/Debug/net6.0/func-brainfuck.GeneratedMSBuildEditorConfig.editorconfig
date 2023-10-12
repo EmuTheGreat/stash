@@ -8,4 +8,4 @@ build_property.PlatformNeutralAssembly =
 build_property.EnforceExtendedAnalyzerRules = 
 build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property.RootNamespace = func.brainfuck
-build_property.ProjectDir = C:\Users\thegr\Desktop\projects\С#\ulearn\PartTwo\Delegate\Brainfuck\
+build_property.ProjectDir = E:\repositories\c#\С#\ulearn\PartTwo\Delegate\Brainfuck\

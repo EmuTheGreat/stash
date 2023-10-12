@@ -4,7 +4,7 @@
 winexe
 C#
 .cs
-C:\Users\thegr\Desktop\projects\С#\ulearn\dataIntegrity\Hotel\obj\Debug\
+E:\repositories\c#\С#\ulearn\PartOne\dataIntegrity\Hotel\obj\Debug\
 HotelAccounting
 none
 false
@@ -16,5 +16,5 @@ DEBUG;TRACE
 13-1310406943
 MainWindow.xaml;
 
-False
+True
 
