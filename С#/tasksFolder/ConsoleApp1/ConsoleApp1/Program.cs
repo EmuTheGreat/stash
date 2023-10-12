@@ -24,13 +24,20 @@ namespace PhoneBook
             while (true)
             {
                 var keyChar = Console.ReadKey().KeyChar;
-                var pageNumber = int.Parse(keyChar.ToString());
-                Console.Clear();
+                var parsed = Int32.TryParse(keyChar.ToString(), out int pageNumber);
+                if (!parsed || pageNumber < 1 || pageNumber > 3)
+                {
+                    Console.WriteLine();
+                    Console.WriteLine("Страницы не существует");
+                }
+                else
+                {
+                    Console.WriteLine();
+                    var page = sortedPhoneBook.Skip((pageNumber - 1) * 2).Take(2);
 
-                var page = sortedPhoneBook.Skip((pageNumber - 1) * 2).Take(2);
-
-                foreach (var contact in page)
-                    Console.WriteLine(contact.Name + " " + contact.LastName + ": " + contact.PhoneNumber);
+                    foreach (var contact in page)
+                        Console.WriteLine(contact.Name + " " + contact.LastName + ": " + contact.PhoneNumber);
+                }
             }
         }
     }
