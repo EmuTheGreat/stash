@@ -1,0 +1,8 @@
+C:\Users\thegr\Desktop\SeminarTasks\L3\Lesson3.Cond3\Lesson3.Cond3\bin\Debug\Lesson3.Cond3.exe.config
+C:\Users\thegr\Desktop\SeminarTasks\L3\Lesson3.Cond3\Lesson3.Cond3\bin\Debug\Lesson3.Cond3.exe
+C:\Users\thegr\Desktop\SeminarTasks\L3\Lesson3.Cond3\Lesson3.Cond3\bin\Debug\Lesson3.Cond3.pdb
+C:\Users\thegr\Desktop\SeminarTasks\L3\Lesson3.Cond3\Lesson3.Cond3\obj\Debug\Lesson3.Cond3.csproj.AssemblyReference.cache
+C:\Users\thegr\Desktop\SeminarTasks\L3\Lesson3.Cond3\Lesson3.Cond3\obj\Debug\Lesson3.Cond3.csproj.SuggestedBindingRedirects.cache
+C:\Users\thegr\Desktop\SeminarTasks\L3\Lesson3.Cond3\Lesson3.Cond3\obj\Debug\Lesson3.Cond3.csproj.CoreCompileInputs.cache
+C:\Users\thegr\Desktop\SeminarTasks\L3\Lesson3.Cond3\Lesson3.Cond3\obj\Debug\Lesson3.Cond3.exe
+C:\Users\thegr\Desktop\SeminarTasks\L3\Lesson3.Cond3\Lesson3.Cond3\obj\Debug\Lesson3.Cond3.pdb

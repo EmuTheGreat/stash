@@ -1,0 +1,12 @@
+C:\Users\thegr\Desktop\projects\С#\mistakes\Risovatel\bin\Debug\RefactorMe.exe.config
+C:\Users\thegr\Desktop\projects\С#\mistakes\Risovatel\bin\Debug\RefactorMe.exe
+C:\Users\thegr\Desktop\projects\С#\mistakes\Risovatel\bin\Debug\RefactorMe.pdb
+C:\Users\thegr\Desktop\projects\С#\mistakes\Risovatel\bin\Debug\nunit.framework.dll
+C:\Users\thegr\Desktop\projects\С#\mistakes\Risovatel\obj\Debug\Risovatel.csproj.AssemblyReference.cache
+C:\Users\thegr\Desktop\projects\С#\mistakes\Risovatel\obj\Debug\Risovatel.csproj.SuggestedBindingRedirects.cache
+C:\Users\thegr\Desktop\projects\С#\mistakes\Risovatel\obj\Debug\RefactorMe.Properties.Resources.resources
+C:\Users\thegr\Desktop\projects\С#\mistakes\Risovatel\obj\Debug\Risovatel.csproj.GenerateResource.cache
+C:\Users\thegr\Desktop\projects\С#\mistakes\Risovatel\obj\Debug\Risovatel.csproj.CoreCompileInputs.cache
+C:\Users\thegr\Desktop\projects\С#\mistakes\Risovatel\obj\Debug\Risovatel.csproj.CopyComplete
+C:\Users\thegr\Desktop\projects\С#\mistakes\Risovatel\obj\Debug\RefactorMe.exe
+C:\Users\thegr\Desktop\projects\С#\mistakes\Risovatel\obj\Debug\RefactorMe.pdb

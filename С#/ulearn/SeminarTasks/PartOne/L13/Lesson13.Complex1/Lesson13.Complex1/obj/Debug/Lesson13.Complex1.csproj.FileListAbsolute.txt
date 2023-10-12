@@ -1,0 +1,8 @@
+C:\Users\thegr\Desktop\projects\С#\SeminarTasks\L13\Lesson13.Complex1\Lesson13.Complex1\bin\Debug\Lesson13.Complex1.exe.config
+C:\Users\thegr\Desktop\projects\С#\SeminarTasks\L13\Lesson13.Complex1\Lesson13.Complex1\bin\Debug\Lesson13.Complex1.exe
+C:\Users\thegr\Desktop\projects\С#\SeminarTasks\L13\Lesson13.Complex1\Lesson13.Complex1\bin\Debug\Lesson13.Complex1.pdb
+C:\Users\thegr\Desktop\projects\С#\SeminarTasks\L13\Lesson13.Complex1\Lesson13.Complex1\obj\Debug\Lesson13.Complex1.csproj.AssemblyReference.cache
+C:\Users\thegr\Desktop\projects\С#\SeminarTasks\L13\Lesson13.Complex1\Lesson13.Complex1\obj\Debug\Lesson13.Complex1.csproj.SuggestedBindingRedirects.cache
+C:\Users\thegr\Desktop\projects\С#\SeminarTasks\L13\Lesson13.Complex1\Lesson13.Complex1\obj\Debug\Lesson13.Complex1.csproj.CoreCompileInputs.cache
+C:\Users\thegr\Desktop\projects\С#\SeminarTasks\L13\Lesson13.Complex1\Lesson13.Complex1\obj\Debug\Lesson13.Complex1.exe
+C:\Users\thegr\Desktop\projects\С#\SeminarTasks\L13\Lesson13.Complex1\Lesson13.Complex1\obj\Debug\Lesson13.Complex1.pdb

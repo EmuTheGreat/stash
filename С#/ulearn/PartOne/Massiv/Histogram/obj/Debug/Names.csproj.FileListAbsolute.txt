@@ -1,0 +1,12 @@
+C:\Users\thegr\Desktop\projects\С#\Massiv\Histogram\bin\Debug\names.txt
+C:\Users\thegr\Desktop\projects\С#\Massiv\Histogram\bin\Debug\Names.exe.config
+C:\Users\thegr\Desktop\projects\С#\Massiv\Histogram\bin\Debug\Names.exe
+C:\Users\thegr\Desktop\projects\С#\Massiv\Histogram\bin\Debug\Names.pdb
+C:\Users\thegr\Desktop\projects\С#\Massiv\Histogram\bin\Debug\ZedGraph.dll
+C:\Users\thegr\Desktop\projects\С#\Massiv\Histogram\bin\Debug\ZedGraph.xml
+C:\Users\thegr\Desktop\projects\С#\Massiv\Histogram\obj\Debug\Names.csproj.AssemblyReference.cache
+C:\Users\thegr\Desktop\projects\С#\Massiv\Histogram\obj\Debug\Names.csproj.SuggestedBindingRedirects.cache
+C:\Users\thegr\Desktop\projects\С#\Massiv\Histogram\obj\Debug\Names.csproj.CoreCompileInputs.cache
+C:\Users\thegr\Desktop\projects\С#\Massiv\Histogram\obj\Debug\Names.csproj.CopyComplete
+C:\Users\thegr\Desktop\projects\С#\Massiv\Histogram\obj\Debug\Names.exe
+C:\Users\thegr\Desktop\projects\С#\Massiv\Histogram\obj\Debug\Names.pdb

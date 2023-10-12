@@ -1,0 +1,8 @@
+E:\projects\С#\ulearn\SeminarTasks\PartTwo\L12\DS5\DS5\obj\Debug\DS5.csproj.AssemblyReference.cache
+E:\projects\С#\ulearn\SeminarTasks\PartTwo\L12\DS5\DS5\obj\Debug\DS5.csproj.SuggestedBindingRedirects.cache
+E:\projects\С#\ulearn\SeminarTasks\PartTwo\L12\DS5\DS5\obj\Debug\DS5.csproj.CoreCompileInputs.cache
+E:\projects\С#\ulearn\SeminarTasks\PartTwo\L12\DS5\DS5\bin\Debug\DS5.exe.config
+E:\projects\С#\ulearn\SeminarTasks\PartTwo\L12\DS5\DS5\bin\Debug\DS5.exe
+E:\projects\С#\ulearn\SeminarTasks\PartTwo\L12\DS5\DS5\bin\Debug\DS5.pdb
+E:\projects\С#\ulearn\SeminarTasks\PartTwo\L12\DS5\DS5\obj\Debug\DS5.exe
+E:\projects\С#\ulearn\SeminarTasks\PartTwo\L12\DS5\DS5\obj\Debug\DS5.pdb

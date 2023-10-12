@@ -1,0 +1,15 @@
+C:\Users\thegr\Desktop\projects\С#\ulearn\dataIntegrity\Hotel\obj\Debug\HotelAccounting.csproj.AssemblyReference.cache
+C:\Users\thegr\Desktop\projects\С#\ulearn\dataIntegrity\Hotel\obj\Debug\HotelAccounting.csproj.SuggestedBindingRedirects.cache
+C:\Users\thegr\Desktop\projects\С#\ulearn\dataIntegrity\Hotel\obj\Debug\MainWindow.g.cs
+C:\Users\thegr\Desktop\projects\С#\ulearn\dataIntegrity\Hotel\obj\Debug\HotelAccounting_MarkupCompile.cache
+C:\Users\thegr\Desktop\projects\С#\ulearn\dataIntegrity\Hotel\obj\Debug\HotelAccounting_MarkupCompile.lref
+C:\Users\thegr\Desktop\projects\С#\ulearn\dataIntegrity\Hotel\bin\Debug\HotelAccounting.exe.config
+C:\Users\thegr\Desktop\projects\С#\ulearn\dataIntegrity\Hotel\bin\Debug\HotelAccounting.exe
+C:\Users\thegr\Desktop\projects\С#\ulearn\dataIntegrity\Hotel\bin\Debug\HotelAccounting.pdb
+C:\Users\thegr\Desktop\projects\С#\ulearn\dataIntegrity\Hotel\obj\Debug\MainWindow.baml
+C:\Users\thegr\Desktop\projects\С#\ulearn\dataIntegrity\Hotel\obj\Debug\HotelAccounting.g.resources
+C:\Users\thegr\Desktop\projects\С#\ulearn\dataIntegrity\Hotel\obj\Debug\HotelAccounting.Properties.Resources.resources
+C:\Users\thegr\Desktop\projects\С#\ulearn\dataIntegrity\Hotel\obj\Debug\HotelAccounting.csproj.GenerateResource.cache
+C:\Users\thegr\Desktop\projects\С#\ulearn\dataIntegrity\Hotel\obj\Debug\HotelAccounting.csproj.CoreCompileInputs.cache
+C:\Users\thegr\Desktop\projects\С#\ulearn\dataIntegrity\Hotel\obj\Debug\HotelAccounting.exe
+C:\Users\thegr\Desktop\projects\С#\ulearn\dataIntegrity\Hotel\obj\Debug\HotelAccounting.pdb

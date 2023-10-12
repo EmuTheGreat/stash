@@ -1,0 +1,8 @@
+C:\Users\thegr\Desktop\projects\С#\Branches\Step\Step\bin\Debug\Step.exe.config
+C:\Users\thegr\Desktop\projects\С#\Branches\Step\Step\bin\Debug\Step.exe
+C:\Users\thegr\Desktop\projects\С#\Branches\Step\Step\bin\Debug\Step.pdb
+C:\Users\thegr\Desktop\projects\С#\Branches\Step\Step\obj\Debug\Step.csproj.AssemblyReference.cache
+C:\Users\thegr\Desktop\projects\С#\Branches\Step\Step\obj\Debug\Step.csproj.SuggestedBindingRedirects.cache
+C:\Users\thegr\Desktop\projects\С#\Branches\Step\Step\obj\Debug\Step.csproj.CoreCompileInputs.cache
+C:\Users\thegr\Desktop\projects\С#\Branches\Step\Step\obj\Debug\Step.exe
+C:\Users\thegr\Desktop\projects\С#\Branches\Step\Step\obj\Debug\Step.pdb

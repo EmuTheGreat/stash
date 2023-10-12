@@ -1,0 +1,8 @@
+C:\Users\thegr\Desktop\SeminarTasks\L4\Lesson4.Loops2\Lesson4.Loops2\bin\Debug\Lesson4.Loops2.exe.config
+C:\Users\thegr\Desktop\SeminarTasks\L4\Lesson4.Loops2\Lesson4.Loops2\bin\Debug\Lesson4.Loops2.exe
+C:\Users\thegr\Desktop\SeminarTasks\L4\Lesson4.Loops2\Lesson4.Loops2\bin\Debug\Lesson4.Loops2.pdb
+C:\Users\thegr\Desktop\SeminarTasks\L4\Lesson4.Loops2\Lesson4.Loops2\obj\Debug\Lesson4.Loops2.csproj.AssemblyReference.cache
+C:\Users\thegr\Desktop\SeminarTasks\L4\Lesson4.Loops2\Lesson4.Loops2\obj\Debug\Lesson4.Loops2.csproj.SuggestedBindingRedirects.cache
+C:\Users\thegr\Desktop\SeminarTasks\L4\Lesson4.Loops2\Lesson4.Loops2\obj\Debug\Lesson4.Loops2.csproj.CoreCompileInputs.cache
+C:\Users\thegr\Desktop\SeminarTasks\L4\Lesson4.Loops2\Lesson4.Loops2\obj\Debug\Lesson4.Loops2.exe
+C:\Users\thegr\Desktop\SeminarTasks\L4\Lesson4.Loops2\Lesson4.Loops2\obj\Debug\Lesson4.Loops2.pdb

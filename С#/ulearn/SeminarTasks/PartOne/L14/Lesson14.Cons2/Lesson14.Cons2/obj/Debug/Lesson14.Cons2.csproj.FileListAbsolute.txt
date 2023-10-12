@@ -1,0 +1,8 @@
+C:\Users\thegr\Desktop\projects\С#\SeminarTasks\L14\Lesson14.Cons2\Lesson14.Cons2\bin\Debug\Lesson14.Cons2.exe.config
+C:\Users\thegr\Desktop\projects\С#\SeminarTasks\L14\Lesson14.Cons2\Lesson14.Cons2\bin\Debug\Lesson14.Cons2.exe
+C:\Users\thegr\Desktop\projects\С#\SeminarTasks\L14\Lesson14.Cons2\Lesson14.Cons2\bin\Debug\Lesson14.Cons2.pdb
+C:\Users\thegr\Desktop\projects\С#\SeminarTasks\L14\Lesson14.Cons2\Lesson14.Cons2\obj\Debug\Lesson14.Cons2.csproj.AssemblyReference.cache
+C:\Users\thegr\Desktop\projects\С#\SeminarTasks\L14\Lesson14.Cons2\Lesson14.Cons2\obj\Debug\Lesson14.Cons2.csproj.SuggestedBindingRedirects.cache
+C:\Users\thegr\Desktop\projects\С#\SeminarTasks\L14\Lesson14.Cons2\Lesson14.Cons2\obj\Debug\Lesson14.Cons2.csproj.CoreCompileInputs.cache
+C:\Users\thegr\Desktop\projects\С#\SeminarTasks\L14\Lesson14.Cons2\Lesson14.Cons2\obj\Debug\Lesson14.Cons2.exe
+C:\Users\thegr\Desktop\projects\С#\SeminarTasks\L14\Lesson14.Cons2\Lesson14.Cons2\obj\Debug\Lesson14.Cons2.pdb

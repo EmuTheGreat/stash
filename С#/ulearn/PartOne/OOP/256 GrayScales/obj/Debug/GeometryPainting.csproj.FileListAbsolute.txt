@@ -1,0 +1,5 @@
+C:\Users\thegr\Desktop\projects\С#\ulearn\OOP\256 GrayScales\obj\Debug\GeometryPainting.csproj.AssemblyReference.cache
+C:\Users\thegr\Desktop\projects\С#\ulearn\OOP\256 GrayScales\obj\Debug\GeometryPainting.csproj.SuggestedBindingRedirects.cache
+C:\Users\thegr\Desktop\projects\С#\ulearn\OOP\256 GrayScales\obj\Debug\GeometryPainting.Properties.Resources.resources
+C:\Users\thegr\Desktop\projects\С#\ulearn\OOP\256 GrayScales\obj\Debug\GeometryPainting.csproj.GenerateResource.cache
+C:\Users\thegr\Desktop\projects\С#\ulearn\OOP\256 GrayScales\obj\Debug\GeometryPainting.csproj.CoreCompileInputs.cache

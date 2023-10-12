@@ -1,0 +1,8 @@
+C:\Users\thegr\Desktop\projects\С#\SeminarTasks\L10\Lesson10.Search0\Lesson10.Search0\bin\Debug\Lesson10.Search0.exe.config
+C:\Users\thegr\Desktop\projects\С#\SeminarTasks\L10\Lesson10.Search0\Lesson10.Search0\bin\Debug\Lesson10.Search0.exe
+C:\Users\thegr\Desktop\projects\С#\SeminarTasks\L10\Lesson10.Search0\Lesson10.Search0\bin\Debug\Lesson10.Search0.pdb
+C:\Users\thegr\Desktop\projects\С#\SeminarTasks\L10\Lesson10.Search0\Lesson10.Search0\obj\Debug\Lesson10.Search0.csproj.AssemblyReference.cache
+C:\Users\thegr\Desktop\projects\С#\SeminarTasks\L10\Lesson10.Search0\Lesson10.Search0\obj\Debug\Lesson10.Search0.csproj.SuggestedBindingRedirects.cache
+C:\Users\thegr\Desktop\projects\С#\SeminarTasks\L10\Lesson10.Search0\Lesson10.Search0\obj\Debug\Lesson10.Search0.csproj.CoreCompileInputs.cache
+C:\Users\thegr\Desktop\projects\С#\SeminarTasks\L10\Lesson10.Search0\Lesson10.Search0\obj\Debug\Lesson10.Search0.exe
+C:\Users\thegr\Desktop\projects\С#\SeminarTasks\L10\Lesson10.Search0\Lesson10.Search0\obj\Debug\Lesson10.Search0.pdb

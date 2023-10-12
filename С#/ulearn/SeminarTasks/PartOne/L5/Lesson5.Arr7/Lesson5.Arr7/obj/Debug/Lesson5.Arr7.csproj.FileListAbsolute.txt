@@ -1,0 +1,8 @@
+C:\Users\thegr\Desktop\SeminarTasks\L5\Lesson5.Arr7\Lesson5.Arr7\bin\Debug\Lesson5.Arr7.exe.config
+C:\Users\thegr\Desktop\SeminarTasks\L5\Lesson5.Arr7\Lesson5.Arr7\bin\Debug\Lesson5.Arr7.exe
+C:\Users\thegr\Desktop\SeminarTasks\L5\Lesson5.Arr7\Lesson5.Arr7\bin\Debug\Lesson5.Arr7.pdb
+C:\Users\thegr\Desktop\SeminarTasks\L5\Lesson5.Arr7\Lesson5.Arr7\obj\Debug\Lesson5.Arr7.csproj.AssemblyReference.cache
+C:\Users\thegr\Desktop\SeminarTasks\L5\Lesson5.Arr7\Lesson5.Arr7\obj\Debug\Lesson5.Arr7.csproj.SuggestedBindingRedirects.cache
+C:\Users\thegr\Desktop\SeminarTasks\L5\Lesson5.Arr7\Lesson5.Arr7\obj\Debug\Lesson5.Arr7.csproj.CoreCompileInputs.cache
+C:\Users\thegr\Desktop\SeminarTasks\L5\Lesson5.Arr7\Lesson5.Arr7\obj\Debug\Lesson5.Arr7.exe
+C:\Users\thegr\Desktop\SeminarTasks\L5\Lesson5.Arr7\Lesson5.Arr7\obj\Debug\Lesson5.Arr7.pdb

@@ -1,0 +1,16 @@
+C:\Users\thegr\Desktop\SeminarTasks\L4\Lesson4.Loop3\Lesson4.Loop3\bin\Debug\Lesson4.Loop3.exe.config
+C:\Users\thegr\Desktop\SeminarTasks\L4\Lesson4.Loop3\Lesson4.Loop3\bin\Debug\Lesson4.Loop3.exe
+C:\Users\thegr\Desktop\SeminarTasks\L4\Lesson4.Loop3\Lesson4.Loop3\bin\Debug\Lesson4.Loop3.pdb
+C:\Users\thegr\Desktop\SeminarTasks\L4\Lesson4.Loop3\Lesson4.Loop3\obj\Debug\Lesson4.Loop3.csproj.AssemblyReference.cache
+C:\Users\thegr\Desktop\SeminarTasks\L4\Lesson4.Loop3\Lesson4.Loop3\obj\Debug\Lesson4.Loop3.csproj.SuggestedBindingRedirects.cache
+C:\Users\thegr\Desktop\SeminarTasks\L4\Lesson4.Loop3\Lesson4.Loop3\obj\Debug\Lesson4.Loop3.csproj.CoreCompileInputs.cache
+C:\Users\thegr\Desktop\SeminarTasks\L4\Lesson4.Loop3\Lesson4.Loop3\obj\Debug\Lesson4.Loop3.exe
+C:\Users\thegr\Desktop\SeminarTasks\L4\Lesson4.Loop3\Lesson4.Loop3\obj\Debug\Lesson4.Loop3.pdb
+C:\Users\thegr\Desktop\SeminarTasks\L4\Lesson4.Loops3\Lesson4.Loop3\bin\Debug\Lesson4.Loop3.exe.config
+C:\Users\thegr\Desktop\SeminarTasks\L4\Lesson4.Loops3\Lesson4.Loop3\bin\Debug\Lesson4.Loop3.exe
+C:\Users\thegr\Desktop\SeminarTasks\L4\Lesson4.Loops3\Lesson4.Loop3\bin\Debug\Lesson4.Loop3.pdb
+C:\Users\thegr\Desktop\SeminarTasks\L4\Lesson4.Loops3\Lesson4.Loop3\obj\Debug\Lesson4.Loop3.csproj.AssemblyReference.cache
+C:\Users\thegr\Desktop\SeminarTasks\L4\Lesson4.Loops3\Lesson4.Loop3\obj\Debug\Lesson4.Loop3.csproj.SuggestedBindingRedirects.cache
+C:\Users\thegr\Desktop\SeminarTasks\L4\Lesson4.Loops3\Lesson4.Loop3\obj\Debug\Lesson4.Loop3.csproj.CoreCompileInputs.cache
+C:\Users\thegr\Desktop\SeminarTasks\L4\Lesson4.Loops3\Lesson4.Loop3\obj\Debug\Lesson4.Loop3.exe
+C:\Users\thegr\Desktop\SeminarTasks\L4\Lesson4.Loops3\Lesson4.Loop3\obj\Debug\Lesson4.Loop3.pdb

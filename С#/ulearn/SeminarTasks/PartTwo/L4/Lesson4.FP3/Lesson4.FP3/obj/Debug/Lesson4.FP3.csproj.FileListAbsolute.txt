@@ -1,0 +1,8 @@
+C:\Users\thegr\Desktop\projects\С#\ulearn\SeminarTasks\PartTwo\L4\Lesson4.FP3\Lesson4.FP3\bin\Debug\Lesson4.FP3.exe.config
+C:\Users\thegr\Desktop\projects\С#\ulearn\SeminarTasks\PartTwo\L4\Lesson4.FP3\Lesson4.FP3\bin\Debug\Lesson4.FP3.exe
+C:\Users\thegr\Desktop\projects\С#\ulearn\SeminarTasks\PartTwo\L4\Lesson4.FP3\Lesson4.FP3\bin\Debug\Lesson4.FP3.pdb
+C:\Users\thegr\Desktop\projects\С#\ulearn\SeminarTasks\PartTwo\L4\Lesson4.FP3\Lesson4.FP3\obj\Debug\Lesson4.FP3.csproj.AssemblyReference.cache
+C:\Users\thegr\Desktop\projects\С#\ulearn\SeminarTasks\PartTwo\L4\Lesson4.FP3\Lesson4.FP3\obj\Debug\Lesson4.FP3.csproj.SuggestedBindingRedirects.cache
+C:\Users\thegr\Desktop\projects\С#\ulearn\SeminarTasks\PartTwo\L4\Lesson4.FP3\Lesson4.FP3\obj\Debug\Lesson4.FP3.csproj.CoreCompileInputs.cache
+C:\Users\thegr\Desktop\projects\С#\ulearn\SeminarTasks\PartTwo\L4\Lesson4.FP3\Lesson4.FP3\obj\Debug\Lesson4.FP3.exe
+C:\Users\thegr\Desktop\projects\С#\ulearn\SeminarTasks\PartTwo\L4\Lesson4.FP3\Lesson4.FP3\obj\Debug\Lesson4.FP3.pdb

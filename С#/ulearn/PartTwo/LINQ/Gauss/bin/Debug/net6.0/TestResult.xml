@@ -1,0 +1,756 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<test-run id="2" name="GaussAlgorithm.dll" fullname="C:/Users/thegr/Desktop/projects/С#/ulearn/PartTwo/LINQ/Gauss/bin/Debug/net6.0/GaussAlgorithm.dll" testcasecount="37" result="Failed" start-time="2023-04-01T13:54:52.2147047Z" end-time="2023-04-01T13:54:52.3115778Z" duration="0.096840" total="37" passed="3" failed="34" inconclusive="0" skipped="0" warnings="0" asserts="16" random-seed="275442592">
+  <command-line><![CDATA[C:\Users\thegr\Desktop\projects\С#\ulearn\PartTwo\LINQ\Gauss\bin\Debug\net6.0\GaussAlgorithm.dll]]></command-line>
+  <filter />
+  <test-suite type="Assembly" id="1045" name="GaussAlgorithm.dll" fullname="C:/Users/thegr/Desktop/projects/С#/ulearn/PartTwo/LINQ/Gauss/bin/Debug/net6.0/GaussAlgorithm.dll" runstate="Runnable" testcasecount="37" result="Failed" site="Child" start-time="2023-04-01T13:54:52.2147047Z" end-time="2023-04-01T13:54:52.3115778Z" duration="0.096840" total="37" passed="3" failed="34" warnings="0" inconclusive="0" skipped="0" asserts="16">
+    <environment framework-version="3.13.3.0" clr-version="6.0.15" os-version="Microsoft Windows 10.0.19044" platform="Win32NT" cwd="C:\Users\thegr\Desktop\projects\С#\ulearn\PartTwo\LINQ\Gauss\bin\Debug\net6.0" machine-name="DESKTOP-5V5QSBL" user="thegr" user-domain="DESKTOP-5V5QSBL" culture="ru-RU" uiculture="ru-RU" os-architecture="x64" />
+    <settings>
+      <setting name="WorkDirectory" value="C:\Users\thegr\Desktop\projects\С#\ulearn\PartTwo\LINQ\Gauss\bin\Debug\net6.0" />
+      <setting name="NumberOfTestWorkers" value="6" />
+    </settings>
+    <properties>
+      <property name="_PID" value="18016" />
+      <property name="_APPDOMAIN" value="GaussAlgorithm" />
+    </properties>
+    <failure>
+      <message><![CDATA[One or more child tests had errors]]></message>
+    </failure>
+    <test-suite type="TestSuite" id="1046" name="GaussAlgorithm" fullname="GaussAlgorithm" runstate="Runnable" testcasecount="37" result="Failed" site="Child" start-time="2023-04-01T13:54:52.2187715Z" end-time="2023-04-01T13:54:52.3115737Z" duration="0.092802" total="37" passed="3" failed="34" warnings="0" inconclusive="0" skipped="0" asserts="16">
+      <failure>
+        <message><![CDATA[One or more child tests had errors]]></message>
+      </failure>
+      <test-suite type="TestFixture" id="1000" name="Solver_Should" fullname="GaussAlgorithm.Solver_Should" classname="GaussAlgorithm.Solver_Should" runstate="Runnable" testcasecount="37" result="Failed" site="Child" start-time="2023-04-01T13:54:52.2199604Z" end-time="2023-04-01T13:54:52.3115663Z" duration="0.091606" total="37" passed="3" failed="34" warnings="0" inconclusive="0" skipped="0" asserts="16">
+        <failure>
+          <message><![CDATA[One or more child tests had errors]]></message>
+        </failure>
+        <test-suite type="ParameterizedMethod" id="1044" name="Solve_WhenHasLinearlyDependentRows" fullname="GaussAlgorithm.Solver_Should.Solve_WhenHasLinearlyDependentRows" classname="GaussAlgorithm.Solver_Should" runstate="Runnable" testcasecount="5" result="Failed" site="Child" start-time="2023-04-01T13:54:52.2216050Z" end-time="2023-04-01T13:54:52.2619986Z" duration="0.040394" total="5" passed="0" failed="5" warnings="0" inconclusive="0" skipped="0" asserts="0">
+          <failure>
+            <message><![CDATA[One or more child tests had errors]]></message>
+          </failure>
+          <test-case id="1039" name="Solve_WhenHasLinearlyDependentRows(10)" fullname="GaussAlgorithm.Solver_Should.Solve_WhenHasLinearlyDependentRows(10)" methodname="Solve_WhenHasLinearlyDependentRows" classname="GaussAlgorithm.Solver_Should" runstate="Runnable" seed="979604026" result="Failed" label="Error" start-time="2023-04-01T13:54:52.2218095Z" end-time="2023-04-01T13:54:52.2578644Z" duration="0.036133" asserts="0">
+            <failure>
+              <message><![CDATA[System.IndexOutOfRangeException : Index was outside the bounds of the array.]]></message>
+              <stack-trace><![CDATA[   at GaussAlgorithm.Solver_Should.<>c__DisplayClass16_0.<AssertIsSolution>b__0(Double element, Int32 j) in C:\Users\thegr\Desktop\projects\С#\ulearn\PartTwo\LINQ\Gauss\Solver_Should.cs:line 197
+   at System.Linq.Enumerable.SelectIterator[TSource,TResult](IEnumerable`1 source, Func`3 selector)+MoveNext()
+   at System.Linq.Enumerable.Sum(IEnumerable`1 source)
+   at GaussAlgorithm.Solver_Should.AssertIsSolution(Double[] actual, Double[][] matrix, Double[] freeMembers, Double accuracy) in C:\Users\thegr\Desktop\projects\С#\ulearn\PartTwo\LINQ\Gauss\Solver_Should.cs:line 197
+   at GaussAlgorithm.Solver_Should.Solve_WhenHasLinearlyDependentRows(Int32 matrixSize) in C:\Users\thegr\Desktop\projects\С#\ulearn\PartTwo\LINQ\Gauss\Solver_Should.cs:line 124]]></stack-trace>
+            </failure>
+            <output><![CDATA[0	0	0	0	0	0	1,7105673758980246E+19	1,1625787559728087E+19	1,2705384799337222E+19	-1,8975641452592194E+19	4,963868959236948E+18
+-1,1368683772161603E-13	0	0	0	0	0	-2740,698117848485	-1744,4283302881568	-1995,9077734192615	3181,443739697556	-9041,425374199185
+0	473,61077844311376	0	0	0	0	177,56543943140426	-441,44531700784506	-257,8854802516176	954,5682337928077	-43980,06520062093
+0	0	0	0	0	0	3,7549593093544576E+17	-3,273715310177461E+18	2,730740190983314E+17	5,543732179413931E+18	-2,9653038010518438E+19
+0	0	0	0	0	0	0	0	0	0	0
+0	0	0	0	0	0	-4,5887091833908024E+18	-6,301556118878013E+18	-4,478527788599522E+18	1,2922205765978506E+18	2,205792044610171E+20
+0	0	0	0	-1028,3824792428888	9,094947017729282E-13	-2024,7543645572077	-1842,284464673052	-996,0712723221068	2241,486525963297	-52142,5120470385
+0	0	2,2737367544323206E-13	0	0	0	133,1105934159212	-1160,5084149032223	96,80276597963348	1965,212987268249	-10511,787641298066
+0	0	0	1,1368683772161603E-13	0	0	-1779,7439692703858	-2444,076547754693	-1737,0098004511096	501,19144322580127	85552,27476757724
+0	0	0	0	0	-5279,464229259392	-4386,09037702053	-2213,1450002618253	-4583,9073931948415	717,2418711592385	-75899,6196014719
+]]></output>
+          </test-case>
+          <test-case id="1040" name="Solve_WhenHasLinearlyDependentRows(5)" fullname="GaussAlgorithm.Solver_Should.Solve_WhenHasLinearlyDependentRows(5)" methodname="Solve_WhenHasLinearlyDependentRows" classname="GaussAlgorithm.Solver_Should" runstate="Runnable" seed="1227067197" result="Failed" label="Error" start-time="2023-04-01T13:54:52.2593645Z" end-time="2023-04-01T13:54:52.2599459Z" duration="0.000581" asserts="0">
+            <failure>
+              <message><![CDATA[System.IndexOutOfRangeException : Index was outside the bounds of the array.]]></message>
+              <stack-trace><![CDATA[   at GaussAlgorithm.Solver_Should.<>c__DisplayClass16_0.<AssertIsSolution>b__0(Double element, Int32 j) in C:\Users\thegr\Desktop\projects\С#\ulearn\PartTwo\LINQ\Gauss\Solver_Should.cs:line 197
+   at System.Linq.Enumerable.SelectIterator[TSource,TResult](IEnumerable`1 source, Func`3 selector)+MoveNext()
+   at System.Linq.Enumerable.Sum(IEnumerable`1 source)
+   at GaussAlgorithm.Solver_Should.AssertIsSolution(Double[] actual, Double[][] matrix, Double[] freeMembers, Double accuracy) in C:\Users\thegr\Desktop\projects\С#\ulearn\PartTwo\LINQ\Gauss\Solver_Should.cs:line 197
+   at GaussAlgorithm.Solver_Should.Solve_WhenHasLinearlyDependentRows(Int32 matrixSize) in C:\Users\thegr\Desktop\projects\С#\ulearn\PartTwo\LINQ\Gauss\Solver_Should.cs:line 124]]></stack-trace>
+            </failure>
+            <output><![CDATA[-512	0	0	0	379,61940016863275	56979,751827373664
+0	62,2578125	-1,1368683772161603E-13	0	-19,74222026312444	4747,353718507367
+0	0	-11821,094491153219	0	821,1232651444927	-600072,1590466849
+0	0	0	0	0	0
+0	0	0	-1733,8691706281234	-76,0166664080035	95830,30931872557
+]]></output>
+          </test-case>
+          <test-case id="1041" name="Solve_WhenHasLinearlyDependentRows(4)" fullname="GaussAlgorithm.Solver_Should.Solve_WhenHasLinearlyDependentRows(4)" methodname="Solve_WhenHasLinearlyDependentRows" classname="GaussAlgorithm.Solver_Should" runstate="Runnable" seed="710037783" result="Failed" label="Error" start-time="2023-04-01T13:54:52.2599615Z" end-time="2023-04-01T13:54:52.2604075Z" duration="0.000446" asserts="0">
+            <failure>
+              <message><![CDATA[System.IndexOutOfRangeException : Index was outside the bounds of the array.]]></message>
+              <stack-trace><![CDATA[   at GaussAlgorithm.Solver_Should.<>c__DisplayClass16_0.<AssertIsSolution>b__0(Double element, Int32 j) in C:\Users\thegr\Desktop\projects\С#\ulearn\PartTwo\LINQ\Gauss\Solver_Should.cs:line 197
+   at System.Linq.Enumerable.SelectIterator[TSource,TResult](IEnumerable`1 source, Func`3 selector)+MoveNext()
+   at System.Linq.Enumerable.Sum(IEnumerable`1 source)
+   at GaussAlgorithm.Solver_Should.AssertIsSolution(Double[] actual, Double[][] matrix, Double[] freeMembers, Double accuracy) in C:\Users\thegr\Desktop\projects\С#\ulearn\PartTwo\LINQ\Gauss\Solver_Should.cs:line 197
+   at GaussAlgorithm.Solver_Should.Solve_WhenHasLinearlyDependentRows(Int32 matrixSize) in C:\Users\thegr\Desktop\projects\С#\ulearn\PartTwo\LINQ\Gauss\Solver_Should.cs:line 124]]></stack-trace>
+            </failure>
+            <output><![CDATA[-965	-1,1368683772161603E-13	0	-275,788823459721	-105993,16632303008
+0	-163,32124352331607	0	230,84111068287996	15594,736415951716
+0	0	3128,233691824498	-805,3973477998795	177656,3070334063
+0	0	0	0	0
+]]></output>
+          </test-case>
+          <test-case id="1042" name="Solve_WhenHasLinearlyDependentRows(3)" fullname="GaussAlgorithm.Solver_Should.Solve_WhenHasLinearlyDependentRows(3)" methodname="Solve_WhenHasLinearlyDependentRows" classname="GaussAlgorithm.Solver_Should" runstate="Runnable" seed="692971799" result="Failed" label="Error" start-time="2023-04-01T13:54:52.2604170Z" end-time="2023-04-01T13:54:52.2608309Z" duration="0.000414" asserts="0">
+            <failure>
+              <message><![CDATA[System.IndexOutOfRangeException : Index was outside the bounds of the array.]]></message>
+              <stack-trace><![CDATA[   at GaussAlgorithm.Solver_Should.<>c__DisplayClass16_0.<AssertIsSolution>b__0(Double element, Int32 j) in C:\Users\thegr\Desktop\projects\С#\ulearn\PartTwo\LINQ\Gauss\Solver_Should.cs:line 197
+   at System.Linq.Enumerable.SelectIterator[TSource,TResult](IEnumerable`1 source, Func`3 selector)+MoveNext()
+   at System.Linq.Enumerable.Sum(IEnumerable`1 source)
+   at GaussAlgorithm.Solver_Should.AssertIsSolution(Double[] actual, Double[][] matrix, Double[] freeMembers, Double accuracy) in C:\Users\thegr\Desktop\projects\С#\ulearn\PartTwo\LINQ\Gauss\Solver_Should.cs:line 197
+   at GaussAlgorithm.Solver_Should.Solve_WhenHasLinearlyDependentRows(Int32 matrixSize) in C:\Users\thegr\Desktop\projects\С#\ulearn\PartTwo\LINQ\Gauss\Solver_Should.cs:line 124]]></stack-trace>
+            </failure>
+            <output><![CDATA[0	1,1575332961783906E+19	-1,3081408805139384E+19	2,0028551639158335E+20
+0	0	0	0
+-1,1368683772161603E-13	-1717,967362924282	1941,4934725848566	-29725,622715404723
+]]></output>
+          </test-case>
+          <test-case id="1043" name="Solve_WhenHasLinearlyDependentRows(2)" fullname="GaussAlgorithm.Solver_Should.Solve_WhenHasLinearlyDependentRows(2)" methodname="Solve_WhenHasLinearlyDependentRows" classname="GaussAlgorithm.Solver_Should" runstate="Runnable" seed="992605959" result="Failed" label="Error" start-time="2023-04-01T13:54:52.2608400Z" end-time="2023-04-01T13:54:52.2612433Z" duration="0.000404" asserts="0">
+            <failure>
+              <message><![CDATA[System.IndexOutOfRangeException : Index was outside the bounds of the array.]]></message>
+              <stack-trace><![CDATA[   at GaussAlgorithm.Solver_Should.<>c__DisplayClass16_0.<AssertIsSolution>b__0(Double element, Int32 j) in C:\Users\thegr\Desktop\projects\С#\ulearn\PartTwo\LINQ\Gauss\Solver_Should.cs:line 197
+   at System.Linq.Enumerable.SelectIterator[TSource,TResult](IEnumerable`1 source, Func`3 selector)+MoveNext()
+   at System.Linq.Enumerable.Sum(IEnumerable`1 source)
+   at GaussAlgorithm.Solver_Should.AssertIsSolution(Double[] actual, Double[][] matrix, Double[] freeMembers, Double accuracy) in C:\Users\thegr\Desktop\projects\С#\ulearn\PartTwo\LINQ\Gauss\Solver_Should.cs:line 197
+   at GaussAlgorithm.Solver_Should.Solve_WhenHasLinearlyDependentRows(Int32 matrixSize) in C:\Users\thegr\Desktop\projects\С#\ulearn\PartTwo\LINQ\Gauss\Solver_Should.cs:line 124]]></stack-trace>
+            </failure>
+            <output><![CDATA[-926	-307	30401
+0	0	0
+]]></output>
+          </test-case>
+        </test-suite>
+        <test-suite type="ParameterizedMethod" id="1008" name="SolveCommonCases_1x1" fullname="GaussAlgorithm.Solver_Should.SolveCommonCases_1x1" classname="GaussAlgorithm.Solver_Should" runstate="Runnable" testcasecount="7" result="Failed" site="Child" start-time="2023-04-01T13:54:52.2624394Z" end-time="2023-04-01T13:54:52.2897156Z" duration="0.027276" total="7" passed="3" failed="4" warnings="0" inconclusive="0" skipped="0" asserts="8">
+          <failure>
+            <message><![CDATA[One or more child tests had errors]]></message>
+          </failure>
+          <test-case id="1001" name="SolveCommonCases_1x1(1,1,42)" fullname="GaussAlgorithm.Solver_Should.SolveCommonCases_1x1(1,1,42)" methodname="SolveCommonCases_1x1" classname="GaussAlgorithm.Solver_Should" runstate="Runnable" seed="184697810" result="Failed" start-time="2023-04-01T13:54:52.2624604Z" end-time="2023-04-01T13:54:52.2871920Z" duration="0.024732" asserts="1">
+            <failure>
+              <message><![CDATA[  The solution is incorrect!
+
+Initial matrix:
+1
+Free members: [42]
+Your solution: [0]
+Equation #1 is not satisfied
+  Expected: 42.0d +/- 0.001d
+  But was:  0.0d
+  Off by:   42.0d
+]]></message>
+              <stack-trace><![CDATA[   at GaussAlgorithm.Solver_Should.AssertIsSolution(Double[] actual, Double[][] matrix, Double[] freeMembers, Double accuracy) in C:\Users\thegr\Desktop\projects\С#\ulearn\PartTwo\LINQ\Gauss\Solver_Should.cs:line 198
+   at GaussAlgorithm.Solver_Should.AssertIsSolvable(Int32 columnCount, Double[] values) in C:\Users\thegr\Desktop\projects\С#\ulearn\PartTwo\LINQ\Gauss\Solver_Should.cs:line 131
+   at GaussAlgorithm.Solver_Should.SolveCommonCases_1x1(Int32 columnCount, Double[] values) in C:\Users\thegr\Desktop\projects\С#\ulearn\PartTwo\LINQ\Gauss\Solver_Should.cs:line 35
+]]></stack-trace>
+            </failure>
+            <output><![CDATA[1	42
+]]></output>
+            <assertions>
+              <assertion result="Failed">
+                <message><![CDATA[  The solution is incorrect!
+
+Initial matrix:
+1
+Free members: [42]
+Your solution: [0]
+Equation #1 is not satisfied
+  Expected: 42.0d +/- 0.001d
+  But was:  0.0d
+  Off by:   42.0d
+]]></message>
+                <stack-trace><![CDATA[   at GaussAlgorithm.Solver_Should.AssertIsSolution(Double[] actual, Double[][] matrix, Double[] freeMembers, Double accuracy) in C:\Users\thegr\Desktop\projects\С#\ulearn\PartTwo\LINQ\Gauss\Solver_Should.cs:line 198
+   at GaussAlgorithm.Solver_Should.AssertIsSolvable(Int32 columnCount, Double[] values) in C:\Users\thegr\Desktop\projects\С#\ulearn\PartTwo\LINQ\Gauss\Solver_Should.cs:line 131
+   at GaussAlgorithm.Solver_Should.SolveCommonCases_1x1(Int32 columnCount, Double[] values) in C:\Users\thegr\Desktop\projects\С#\ulearn\PartTwo\LINQ\Gauss\Solver_Should.cs:line 35
+]]></stack-trace>
+              </assertion>
+            </assertions>
+          </test-case>
+          <test-case id="1002" name="SolveCommonCases_1x1(1,2,-42)" fullname="GaussAlgorithm.Solver_Should.SolveCommonCases_1x1(1,2,-42)" methodname="SolveCommonCases_1x1" classname="GaussAlgorithm.Solver_Should" runstate="Runnable" seed="1890308304" result="Failed" start-time="2023-04-01T13:54:52.2872143Z" end-time="2023-04-01T13:54:52.2879637Z" duration="0.000750" asserts="1">
+            <failure>
+              <message><![CDATA[  The solution is incorrect!
+
+Initial matrix:
+2
+Free members: [-42]
+Your solution: [0]
+Equation #1 is not satisfied
+  Expected: -42.0d +/- 0.001d
+  But was:  0.0d
+  Off by:   -42.0d
+]]></message>
+              <stack-trace><![CDATA[   at GaussAlgorithm.Solver_Should.AssertIsSolution(Double[] actual, Double[][] matrix, Double[] freeMembers, Double accuracy) in C:\Users\thegr\Desktop\projects\С#\ulearn\PartTwo\LINQ\Gauss\Solver_Should.cs:line 198
+   at GaussAlgorithm.Solver_Should.AssertIsSolvable(Int32 columnCount, Double[] values) in C:\Users\thegr\Desktop\projects\С#\ulearn\PartTwo\LINQ\Gauss\Solver_Should.cs:line 131
+   at GaussAlgorithm.Solver_Should.SolveCommonCases_1x1(Int32 columnCount, Double[] values) in C:\Users\thegr\Desktop\projects\С#\ulearn\PartTwo\LINQ\Gauss\Solver_Should.cs:line 35
+]]></stack-trace>
+            </failure>
+            <output><![CDATA[2	-42
+]]></output>
+            <assertions>
+              <assertion result="Failed">
+                <message><![CDATA[  The solution is incorrect!
+
+Initial matrix:
+2
+Free members: [-42]
+Your solution: [0]
+Equation #1 is not satisfied
+  Expected: -42.0d +/- 0.001d
+  But was:  0.0d
+  Off by:   -42.0d
+]]></message>
+                <stack-trace><![CDATA[   at GaussAlgorithm.Solver_Should.AssertIsSolution(Double[] actual, Double[][] matrix, Double[] freeMembers, Double accuracy) in C:\Users\thegr\Desktop\projects\С#\ulearn\PartTwo\LINQ\Gauss\Solver_Should.cs:line 198
+   at GaussAlgorithm.Solver_Should.AssertIsSolvable(Int32 columnCount, Double[] values) in C:\Users\thegr\Desktop\projects\С#\ulearn\PartTwo\LINQ\Gauss\Solver_Should.cs:line 131
+   at GaussAlgorithm.Solver_Should.SolveCommonCases_1x1(Int32 columnCount, Double[] values) in C:\Users\thegr\Desktop\projects\С#\ulearn\PartTwo\LINQ\Gauss\Solver_Should.cs:line 35
+]]></stack-trace>
+              </assertion>
+            </assertions>
+          </test-case>
+          <test-case id="1003" name="SolveCommonCases_1x1(1,-100,0)" fullname="GaussAlgorithm.Solver_Should.SolveCommonCases_1x1(1,-100,0)" methodname="SolveCommonCases_1x1" classname="GaussAlgorithm.Solver_Should" runstate="Runnable" seed="104027170" result="Passed" start-time="2023-04-01T13:54:52.2879779Z" end-time="2023-04-01T13:54:52.2881258Z" duration="0.000148" asserts="1">
+            <output><![CDATA[-100	0
+]]></output>
+          </test-case>
+          <test-case id="1004" name="SolveCommonCases_1x1(1,0,0)" fullname="GaussAlgorithm.Solver_Should.SolveCommonCases_1x1(1,0,0)" methodname="SolveCommonCases_1x1" classname="GaussAlgorithm.Solver_Should" runstate="Runnable" seed="1309692455" result="Passed" start-time="2023-04-01T13:54:52.2881357Z" end-time="2023-04-01T13:54:52.2881749Z" duration="0.000039" asserts="1">
+            <output><![CDATA[0	0
+]]></output>
+          </test-case>
+          <test-case id="1005" name="SolveCommonCases_1x1(1,1,21,2,42)" fullname="GaussAlgorithm.Solver_Should.SolveCommonCases_1x1(1,1,21,2,42)" methodname="SolveCommonCases_1x1" classname="GaussAlgorithm.Solver_Should" runstate="Runnable" seed="2013518191" result="Failed" start-time="2023-04-01T13:54:52.2881819Z" end-time="2023-04-01T13:54:52.2889362Z" duration="0.000755" asserts="1">
+            <failure>
+              <message><![CDATA[  The solution is incorrect!
+
+Initial matrix:
+1
+2
+Free members: [21, 42]
+Your solution: [0]
+Equation #1 is not satisfied
+  Expected: 21.0d +/- 0.001d
+  But was:  0.0d
+  Off by:   21.0d
+]]></message>
+              <stack-trace><![CDATA[   at GaussAlgorithm.Solver_Should.AssertIsSolution(Double[] actual, Double[][] matrix, Double[] freeMembers, Double accuracy) in C:\Users\thegr\Desktop\projects\С#\ulearn\PartTwo\LINQ\Gauss\Solver_Should.cs:line 198
+   at GaussAlgorithm.Solver_Should.AssertIsSolvable(Int32 columnCount, Double[] values) in C:\Users\thegr\Desktop\projects\С#\ulearn\PartTwo\LINQ\Gauss\Solver_Should.cs:line 131
+   at GaussAlgorithm.Solver_Should.SolveCommonCases_1x1(Int32 columnCount, Double[] values) in C:\Users\thegr\Desktop\projects\С#\ulearn\PartTwo\LINQ\Gauss\Solver_Should.cs:line 35
+]]></stack-trace>
+            </failure>
+            <output><![CDATA[1	21
+0	0
+]]></output>
+            <assertions>
+              <assertion result="Failed">
+                <message><![CDATA[  The solution is incorrect!
+
+Initial matrix:
+1
+2
+Free members: [21, 42]
+Your solution: [0]
+Equation #1 is not satisfied
+  Expected: 21.0d +/- 0.001d
+  But was:  0.0d
+  Off by:   21.0d
+]]></message>
+                <stack-trace><![CDATA[   at GaussAlgorithm.Solver_Should.AssertIsSolution(Double[] actual, Double[][] matrix, Double[] freeMembers, Double accuracy) in C:\Users\thegr\Desktop\projects\С#\ulearn\PartTwo\LINQ\Gauss\Solver_Should.cs:line 198
+   at GaussAlgorithm.Solver_Should.AssertIsSolvable(Int32 columnCount, Double[] values) in C:\Users\thegr\Desktop\projects\С#\ulearn\PartTwo\LINQ\Gauss\Solver_Should.cs:line 131
+   at GaussAlgorithm.Solver_Should.SolveCommonCases_1x1(Int32 columnCount, Double[] values) in C:\Users\thegr\Desktop\projects\С#\ulearn\PartTwo\LINQ\Gauss\Solver_Should.cs:line 35
+]]></stack-trace>
+              </assertion>
+            </assertions>
+          </test-case>
+          <test-case id="1006" name="SolveCommonCases_1x1(1,2,42,1,21)" fullname="GaussAlgorithm.Solver_Should.SolveCommonCases_1x1(1,2,42,1,21)" methodname="SolveCommonCases_1x1" classname="GaussAlgorithm.Solver_Should" runstate="Runnable" seed="1580729129" result="Failed" start-time="2023-04-01T13:54:52.2889486Z" end-time="2023-04-01T13:54:52.2896240Z" duration="0.000676" asserts="1">
+            <failure>
+              <message><![CDATA[  The solution is incorrect!
+
+Initial matrix:
+2
+1
+Free members: [42, 21]
+Your solution: [0]
+Equation #1 is not satisfied
+  Expected: 42.0d +/- 0.001d
+  But was:  0.0d
+  Off by:   42.0d
+]]></message>
+              <stack-trace><![CDATA[   at GaussAlgorithm.Solver_Should.AssertIsSolution(Double[] actual, Double[][] matrix, Double[] freeMembers, Double accuracy) in C:\Users\thegr\Desktop\projects\С#\ulearn\PartTwo\LINQ\Gauss\Solver_Should.cs:line 198
+   at GaussAlgorithm.Solver_Should.AssertIsSolvable(Int32 columnCount, Double[] values) in C:\Users\thegr\Desktop\projects\С#\ulearn\PartTwo\LINQ\Gauss\Solver_Should.cs:line 131
+   at GaussAlgorithm.Solver_Should.SolveCommonCases_1x1(Int32 columnCount, Double[] values) in C:\Users\thegr\Desktop\projects\С#\ulearn\PartTwo\LINQ\Gauss\Solver_Should.cs:line 35
+]]></stack-trace>
+            </failure>
+            <output><![CDATA[2	42
+0	0
+]]></output>
+            <assertions>
+              <assertion result="Failed">
+                <message><![CDATA[  The solution is incorrect!
+
+Initial matrix:
+2
+1
+Free members: [42, 21]
+Your solution: [0]
+Equation #1 is not satisfied
+  Expected: 42.0d +/- 0.001d
+  But was:  0.0d
+  Off by:   42.0d
+]]></message>
+                <stack-trace><![CDATA[   at GaussAlgorithm.Solver_Should.AssertIsSolution(Double[] actual, Double[][] matrix, Double[] freeMembers, Double accuracy) in C:\Users\thegr\Desktop\projects\С#\ulearn\PartTwo\LINQ\Gauss\Solver_Should.cs:line 198
+   at GaussAlgorithm.Solver_Should.AssertIsSolvable(Int32 columnCount, Double[] values) in C:\Users\thegr\Desktop\projects\С#\ulearn\PartTwo\LINQ\Gauss\Solver_Should.cs:line 131
+   at GaussAlgorithm.Solver_Should.SolveCommonCases_1x1(Int32 columnCount, Double[] values) in C:\Users\thegr\Desktop\projects\С#\ulearn\PartTwo\LINQ\Gauss\Solver_Should.cs:line 35
+]]></stack-trace>
+              </assertion>
+            </assertions>
+          </test-case>
+          <test-case id="1007" name="SolveCommonCases_1x1(1,0,0,0,0)" fullname="GaussAlgorithm.Solver_Should.SolveCommonCases_1x1(1,0,0,0,0)" methodname="SolveCommonCases_1x1" classname="GaussAlgorithm.Solver_Should" runstate="Runnable" seed="1073571505" result="Passed" start-time="2023-04-01T13:54:52.2896406Z" end-time="2023-04-01T13:54:52.2896900Z" duration="0.000049" asserts="2">
+            <output><![CDATA[0	0
+0	0
+]]></output>
+          </test-case>
+        </test-suite>
+        <test-suite type="ParameterizedMethod" id="1017" name="SolveCommonCases_2x2" fullname="GaussAlgorithm.Solver_Should.SolveCommonCases_2x2" classname="GaussAlgorithm.Solver_Should" runstate="Runnable" testcasecount="8" result="Failed" site="Child" start-time="2023-04-01T13:54:52.2897264Z" end-time="2023-04-01T13:54:52.2934987Z" duration="0.003773" total="8" passed="0" failed="8" warnings="0" inconclusive="0" skipped="0" asserts="0">
+          <failure>
+            <message><![CDATA[One or more child tests had errors]]></message>
+          </failure>
+          <test-case id="1009" name="SolveCommonCases_2x2(2,1,2,42)" fullname="GaussAlgorithm.Solver_Should.SolveCommonCases_2x2(2,1,2,42)" methodname="SolveCommonCases_2x2" classname="GaussAlgorithm.Solver_Should" runstate="Runnable" seed="283865173" result="Failed" label="Error" start-time="2023-04-01T13:54:52.2897392Z" end-time="2023-04-01T13:54:52.2903572Z" duration="0.000618" asserts="0">
+            <failure>
+              <message><![CDATA[System.IndexOutOfRangeException : Index was outside the bounds of the array.]]></message>
+              <stack-trace><![CDATA[   at GaussAlgorithm.Solver_Should.<>c__DisplayClass16_0.<AssertIsSolution>b__0(Double element, Int32 j) in C:\Users\thegr\Desktop\projects\С#\ulearn\PartTwo\LINQ\Gauss\Solver_Should.cs:line 197
+   at System.Linq.Enumerable.SelectIterator[TSource,TResult](IEnumerable`1 source, Func`3 selector)+MoveNext()
+   at System.Linq.Enumerable.Sum(IEnumerable`1 source)
+   at GaussAlgorithm.Solver_Should.AssertIsSolution(Double[] actual, Double[][] matrix, Double[] freeMembers, Double accuracy) in C:\Users\thegr\Desktop\projects\С#\ulearn\PartTwo\LINQ\Gauss\Solver_Should.cs:line 197
+   at GaussAlgorithm.Solver_Should.AssertIsSolvable(Int32 columnCount, Double[] values) in C:\Users\thegr\Desktop\projects\С#\ulearn\PartTwo\LINQ\Gauss\Solver_Should.cs:line 131
+   at GaussAlgorithm.Solver_Should.SolveCommonCases_2x2(Int32 columnCount, Double[] values) in C:\Users\thegr\Desktop\projects\С#\ulearn\PartTwo\LINQ\Gauss\Solver_Should.cs:line 54]]></stack-trace>
+            </failure>
+            <output><![CDATA[1	2	42
+]]></output>
+          </test-case>
+          <test-case id="1010" name="SolveCommonCases_2x2(2,0,-2,42)" fullname="GaussAlgorithm.Solver_Should.SolveCommonCases_2x2(2,0,-2,42)" methodname="SolveCommonCases_2x2" classname="GaussAlgorithm.Solver_Should" runstate="Runnable" seed="838613793" result="Failed" label="Error" start-time="2023-04-01T13:54:52.2903705Z" end-time="2023-04-01T13:54:52.2908460Z" duration="0.000476" asserts="0">
+            <failure>
+              <message><![CDATA[System.IndexOutOfRangeException : Index was outside the bounds of the array.]]></message>
+              <stack-trace><![CDATA[   at GaussAlgorithm.Solver_Should.<>c__DisplayClass16_0.<AssertIsSolution>b__0(Double element, Int32 j) in C:\Users\thegr\Desktop\projects\С#\ulearn\PartTwo\LINQ\Gauss\Solver_Should.cs:line 197
+   at System.Linq.Enumerable.SelectIterator[TSource,TResult](IEnumerable`1 source, Func`3 selector)+MoveNext()
+   at System.Linq.Enumerable.Sum(IEnumerable`1 source)
+   at GaussAlgorithm.Solver_Should.AssertIsSolution(Double[] actual, Double[][] matrix, Double[] freeMembers, Double accuracy) in C:\Users\thegr\Desktop\projects\С#\ulearn\PartTwo\LINQ\Gauss\Solver_Should.cs:line 197
+   at GaussAlgorithm.Solver_Should.AssertIsSolvable(Int32 columnCount, Double[] values) in C:\Users\thegr\Desktop\projects\С#\ulearn\PartTwo\LINQ\Gauss\Solver_Should.cs:line 131
+   at GaussAlgorithm.Solver_Should.SolveCommonCases_2x2(Int32 columnCount, Double[] values) in C:\Users\thegr\Desktop\projects\С#\ulearn\PartTwo\LINQ\Gauss\Solver_Should.cs:line 54]]></stack-trace>
+            </failure>
+            <output><![CDATA[0	-2	42
+]]></output>
+          </test-case>
+          <test-case id="1011" name="SolveCommonCases_2x2(2,-1,0,42)" fullname="GaussAlgorithm.Solver_Should.SolveCommonCases_2x2(2,-1,0,42)" methodname="SolveCommonCases_2x2" classname="GaussAlgorithm.Solver_Should" runstate="Runnable" seed="322555960" result="Failed" label="Error" start-time="2023-04-01T13:54:52.2908583Z" end-time="2023-04-01T13:54:52.2913133Z" duration="0.000455" asserts="0">
+            <failure>
+              <message><![CDATA[System.IndexOutOfRangeException : Index was outside the bounds of the array.]]></message>
+              <stack-trace><![CDATA[   at GaussAlgorithm.Solver_Should.<>c__DisplayClass16_0.<AssertIsSolution>b__0(Double element, Int32 j) in C:\Users\thegr\Desktop\projects\С#\ulearn\PartTwo\LINQ\Gauss\Solver_Should.cs:line 197
+   at System.Linq.Enumerable.SelectIterator[TSource,TResult](IEnumerable`1 source, Func`3 selector)+MoveNext()
+   at System.Linq.Enumerable.Sum(IEnumerable`1 source)
+   at GaussAlgorithm.Solver_Should.AssertIsSolution(Double[] actual, Double[][] matrix, Double[] freeMembers, Double accuracy) in C:\Users\thegr\Desktop\projects\С#\ulearn\PartTwo\LINQ\Gauss\Solver_Should.cs:line 197
+   at GaussAlgorithm.Solver_Should.AssertIsSolvable(Int32 columnCount, Double[] values) in C:\Users\thegr\Desktop\projects\С#\ulearn\PartTwo\LINQ\Gauss\Solver_Should.cs:line 131
+   at GaussAlgorithm.Solver_Should.SolveCommonCases_2x2(Int32 columnCount, Double[] values) in C:\Users\thegr\Desktop\projects\С#\ulearn\PartTwo\LINQ\Gauss\Solver_Should.cs:line 54]]></stack-trace>
+            </failure>
+            <output><![CDATA[-1	0	42
+]]></output>
+          </test-case>
+          <test-case id="1012" name="SolveCommonCases_2x2(2,0,0,0)" fullname="GaussAlgorithm.Solver_Should.SolveCommonCases_2x2(2,0,0,0)" methodname="SolveCommonCases_2x2" classname="GaussAlgorithm.Solver_Should" runstate="Runnable" seed="2141383453" result="Failed" label="Error" start-time="2023-04-01T13:54:52.2913229Z" end-time="2023-04-01T13:54:52.2917374Z" duration="0.000415" asserts="0">
+            <failure>
+              <message><![CDATA[System.IndexOutOfRangeException : Index was outside the bounds of the array.]]></message>
+              <stack-trace><![CDATA[   at GaussAlgorithm.Solver_Should.<>c__DisplayClass16_0.<AssertIsSolution>b__0(Double element, Int32 j) in C:\Users\thegr\Desktop\projects\С#\ulearn\PartTwo\LINQ\Gauss\Solver_Should.cs:line 197
+   at System.Linq.Enumerable.SelectIterator[TSource,TResult](IEnumerable`1 source, Func`3 selector)+MoveNext()
+   at System.Linq.Enumerable.Sum(IEnumerable`1 source)
+   at GaussAlgorithm.Solver_Should.AssertIsSolution(Double[] actual, Double[][] matrix, Double[] freeMembers, Double accuracy) in C:\Users\thegr\Desktop\projects\С#\ulearn\PartTwo\LINQ\Gauss\Solver_Should.cs:line 197
+   at GaussAlgorithm.Solver_Should.AssertIsSolvable(Int32 columnCount, Double[] values) in C:\Users\thegr\Desktop\projects\С#\ulearn\PartTwo\LINQ\Gauss\Solver_Should.cs:line 131
+   at GaussAlgorithm.Solver_Should.SolveCommonCases_2x2(Int32 columnCount, Double[] values) in C:\Users\thegr\Desktop\projects\С#\ulearn\PartTwo\LINQ\Gauss\Solver_Should.cs:line 54]]></stack-trace>
+            </failure>
+            <output><![CDATA[0	0	0
+]]></output>
+          </test-case>
+          <test-case id="1013" name="SolveCommonCases_2x2(2,1,2,1,3,-1,2)" fullname="GaussAlgorithm.Solver_Should.SolveCommonCases_2x2(2,1,2,1,3,-1,2)" methodname="SolveCommonCases_2x2" classname="GaussAlgorithm.Solver_Should" runstate="Runnable" seed="218910647" result="Failed" label="Error" start-time="2023-04-01T13:54:52.2917467Z" end-time="2023-04-01T13:54:52.2921632Z" duration="0.000417" asserts="0">
+            <failure>
+              <message><![CDATA[System.IndexOutOfRangeException : Index was outside the bounds of the array.]]></message>
+              <stack-trace><![CDATA[   at GaussAlgorithm.Solver_Should.<>c__DisplayClass16_0.<AssertIsSolution>b__0(Double element, Int32 j) in C:\Users\thegr\Desktop\projects\С#\ulearn\PartTwo\LINQ\Gauss\Solver_Should.cs:line 197
+   at System.Linq.Enumerable.SelectIterator[TSource,TResult](IEnumerable`1 source, Func`3 selector)+MoveNext()
+   at System.Linq.Enumerable.Sum(IEnumerable`1 source)
+   at GaussAlgorithm.Solver_Should.AssertIsSolution(Double[] actual, Double[][] matrix, Double[] freeMembers, Double accuracy) in C:\Users\thegr\Desktop\projects\С#\ulearn\PartTwo\LINQ\Gauss\Solver_Should.cs:line 197
+   at GaussAlgorithm.Solver_Should.AssertIsSolvable(Int32 columnCount, Double[] values) in C:\Users\thegr\Desktop\projects\С#\ulearn\PartTwo\LINQ\Gauss\Solver_Should.cs:line 131
+   at GaussAlgorithm.Solver_Should.SolveCommonCases_2x2(Int32 columnCount, Double[] values) in C:\Users\thegr\Desktop\projects\С#\ulearn\PartTwo\LINQ\Gauss\Solver_Should.cs:line 54]]></stack-trace>
+            </failure>
+            <output><![CDATA[1	0	0,7142857142857143
+0	-7	-1
+]]></output>
+          </test-case>
+          <test-case id="1014" name="SolveCommonCases_2x2(2,1,-2,42,2,1,-31)" fullname="GaussAlgorithm.Solver_Should.SolveCommonCases_2x2(2,1,-2,42,2,1,-31)" methodname="SolveCommonCases_2x2" classname="GaussAlgorithm.Solver_Should" runstate="Runnable" seed="1944268981" result="Failed" label="Error" start-time="2023-04-01T13:54:52.2921729Z" end-time="2023-04-01T13:54:52.2925891Z" duration="0.000416" asserts="0">
+            <failure>
+              <message><![CDATA[System.IndexOutOfRangeException : Index was outside the bounds of the array.]]></message>
+              <stack-trace><![CDATA[   at GaussAlgorithm.Solver_Should.<>c__DisplayClass16_0.<AssertIsSolution>b__0(Double element, Int32 j) in C:\Users\thegr\Desktop\projects\С#\ulearn\PartTwo\LINQ\Gauss\Solver_Should.cs:line 197
+   at System.Linq.Enumerable.SelectIterator[TSource,TResult](IEnumerable`1 source, Func`3 selector)+MoveNext()
+   at System.Linq.Enumerable.Sum(IEnumerable`1 source)
+   at GaussAlgorithm.Solver_Should.AssertIsSolution(Double[] actual, Double[][] matrix, Double[] freeMembers, Double accuracy) in C:\Users\thegr\Desktop\projects\С#\ulearn\PartTwo\LINQ\Gauss\Solver_Should.cs:line 197
+   at GaussAlgorithm.Solver_Should.AssertIsSolvable(Int32 columnCount, Double[] values) in C:\Users\thegr\Desktop\projects\С#\ulearn\PartTwo\LINQ\Gauss\Solver_Should.cs:line 131
+   at GaussAlgorithm.Solver_Should.SolveCommonCases_2x2(Int32 columnCount, Double[] values) in C:\Users\thegr\Desktop\projects\С#\ulearn\PartTwo\LINQ\Gauss\Solver_Should.cs:line 54]]></stack-trace>
+            </failure>
+            <output><![CDATA[1	0	-4
+0	5	-115
+]]></output>
+          </test-case>
+          <test-case id="1015" name="SolveCommonCases_2x2(2,-1,-2,-42,2,4,84)" fullname="GaussAlgorithm.Solver_Should.SolveCommonCases_2x2(2,-1,-2,-42,2,4,84)" methodname="SolveCommonCases_2x2" classname="GaussAlgorithm.Solver_Should" runstate="Runnable" seed="1594510601" result="Failed" label="Error" start-time="2023-04-01T13:54:52.2925990Z" end-time="2023-04-01T13:54:52.2930199Z" duration="0.000421" asserts="0">
+            <failure>
+              <message><![CDATA[System.IndexOutOfRangeException : Index was outside the bounds of the array.]]></message>
+              <stack-trace><![CDATA[   at GaussAlgorithm.Solver_Should.<>c__DisplayClass16_0.<AssertIsSolution>b__0(Double element, Int32 j) in C:\Users\thegr\Desktop\projects\С#\ulearn\PartTwo\LINQ\Gauss\Solver_Should.cs:line 197
+   at System.Linq.Enumerable.SelectIterator[TSource,TResult](IEnumerable`1 source, Func`3 selector)+MoveNext()
+   at System.Linq.Enumerable.Sum(IEnumerable`1 source)
+   at GaussAlgorithm.Solver_Should.AssertIsSolution(Double[] actual, Double[][] matrix, Double[] freeMembers, Double accuracy) in C:\Users\thegr\Desktop\projects\С#\ulearn\PartTwo\LINQ\Gauss\Solver_Should.cs:line 197
+   at GaussAlgorithm.Solver_Should.AssertIsSolvable(Int32 columnCount, Double[] values) in C:\Users\thegr\Desktop\projects\С#\ulearn\PartTwo\LINQ\Gauss\Solver_Should.cs:line 131
+   at GaussAlgorithm.Solver_Should.SolveCommonCases_2x2(Int32 columnCount, Double[] values) in C:\Users\thegr\Desktop\projects\С#\ulearn\PartTwo\LINQ\Gauss\Solver_Should.cs:line 54]]></stack-trace>
+            </failure>
+            <output><![CDATA[-1	-2	-42
+0	0	0
+]]></output>
+          </test-case>
+          <test-case id="1016" name="SolveCommonCases_2x2(2,1,2,42,-2,-4,-84)" fullname="GaussAlgorithm.Solver_Should.SolveCommonCases_2x2(2,1,2,42,-2,-4,-84)" methodname="SolveCommonCases_2x2" classname="GaussAlgorithm.Solver_Should" runstate="Runnable" seed="960107767" result="Failed" label="Error" start-time="2023-04-01T13:54:52.2930304Z" end-time="2023-04-01T13:54:52.2934619Z" duration="0.000432" asserts="0">
+            <failure>
+              <message><![CDATA[System.IndexOutOfRangeException : Index was outside the bounds of the array.]]></message>
+              <stack-trace><![CDATA[   at GaussAlgorithm.Solver_Should.<>c__DisplayClass16_0.<AssertIsSolution>b__0(Double element, Int32 j) in C:\Users\thegr\Desktop\projects\С#\ulearn\PartTwo\LINQ\Gauss\Solver_Should.cs:line 197
+   at System.Linq.Enumerable.SelectIterator[TSource,TResult](IEnumerable`1 source, Func`3 selector)+MoveNext()
+   at System.Linq.Enumerable.Sum(IEnumerable`1 source)
+   at GaussAlgorithm.Solver_Should.AssertIsSolution(Double[] actual, Double[][] matrix, Double[] freeMembers, Double accuracy) in C:\Users\thegr\Desktop\projects\С#\ulearn\PartTwo\LINQ\Gauss\Solver_Should.cs:line 197
+   at GaussAlgorithm.Solver_Should.AssertIsSolvable(Int32 columnCount, Double[] values) in C:\Users\thegr\Desktop\projects\С#\ulearn\PartTwo\LINQ\Gauss\Solver_Should.cs:line 131
+   at GaussAlgorithm.Solver_Should.SolveCommonCases_2x2(Int32 columnCount, Double[] values) in C:\Users\thegr\Desktop\projects\С#\ulearn\PartTwo\LINQ\Gauss\Solver_Should.cs:line 54]]></stack-trace>
+            </failure>
+            <output><![CDATA[1	2	42
+0	0	0
+]]></output>
+          </test-case>
+        </test-suite>
+        <test-suite type="ParameterizedMethod" id="1021" name="SolveCommonCases_3x3" fullname="GaussAlgorithm.Solver_Should.SolveCommonCases_3x3" classname="GaussAlgorithm.Solver_Should" runstate="Runnable" testcasecount="3" result="Failed" site="Child" start-time="2023-04-01T13:54:52.2935517Z" end-time="2023-04-01T13:54:52.2964858Z" duration="0.002934" total="3" passed="0" failed="3" warnings="0" inconclusive="0" skipped="0" asserts="0">
+          <failure>
+            <message><![CDATA[One or more child tests had errors]]></message>
+          </failure>
+          <test-case id="1018" name="SolveCommonCases_3x3(3,2,4,6,12,1,2,3,6,1,1,3,5)" fullname="GaussAlgorithm.Solver_Should.SolveCommonCases_3x3(3,2,4,6,12,1,2,3,6,1,1,3,5)" methodname="SolveCommonCases_3x3" classname="GaussAlgorithm.Solver_Should" runstate="Runnable" seed="1791251295" result="Failed" label="Error" start-time="2023-04-01T13:54:52.2935939Z" end-time="2023-04-01T13:54:52.2953116Z" duration="0.001718" asserts="0">
+            <failure>
+              <message><![CDATA[System.IndexOutOfRangeException : Index was outside the bounds of the array.]]></message>
+              <stack-trace><![CDATA[   at GaussAlgorithm.Solver_Should.<>c__DisplayClass16_0.<AssertIsSolution>b__0(Double element, Int32 j) in C:\Users\thegr\Desktop\projects\С#\ulearn\PartTwo\LINQ\Gauss\Solver_Should.cs:line 197
+   at System.Linq.Enumerable.SelectIterator[TSource,TResult](IEnumerable`1 source, Func`3 selector)+MoveNext()
+   at System.Linq.Enumerable.Sum(IEnumerable`1 source)
+   at GaussAlgorithm.Solver_Should.AssertIsSolution(Double[] actual, Double[][] matrix, Double[] freeMembers, Double accuracy) in C:\Users\thegr\Desktop\projects\С#\ulearn\PartTwo\LINQ\Gauss\Solver_Should.cs:line 197
+   at GaussAlgorithm.Solver_Should.AssertIsSolvable(Int32 columnCount, Double[] values) in C:\Users\thegr\Desktop\projects\С#\ulearn\PartTwo\LINQ\Gauss\Solver_Should.cs:line 131
+   at GaussAlgorithm.Solver_Should.SolveCommonCases_3x3(Int32 columnCount, Double[] values) in C:\Users\thegr\Desktop\projects\С#\ulearn\PartTwo\LINQ\Gauss\Solver_Should.cs:line 70]]></stack-trace>
+            </failure>
+            <output><![CDATA[2	0	6	8
+0	0	0	0
+0	-1	0	-1
+]]></output>
+          </test-case>
+          <test-case id="1019" name="SolveCommonCases_3x3(3,2,4,6,12,1,2,4,7,1,2,6,9)" fullname="GaussAlgorithm.Solver_Should.SolveCommonCases_3x3(3,2,4,6,12,1,2,4,7,1,2,6,9)" methodname="SolveCommonCases_3x3" classname="GaussAlgorithm.Solver_Should" runstate="Runnable" seed="851896994" result="Failed" label="Error" start-time="2023-04-01T13:54:52.2953336Z" end-time="2023-04-01T13:54:52.2959412Z" duration="0.000608" asserts="0">
+            <failure>
+              <message><![CDATA[System.IndexOutOfRangeException : Index was outside the bounds of the array.]]></message>
+              <stack-trace><![CDATA[   at GaussAlgorithm.Solver_Should.<>c__DisplayClass16_0.<AssertIsSolution>b__0(Double element, Int32 j) in C:\Users\thegr\Desktop\projects\С#\ulearn\PartTwo\LINQ\Gauss\Solver_Should.cs:line 197
+   at System.Linq.Enumerable.SelectIterator[TSource,TResult](IEnumerable`1 source, Func`3 selector)+MoveNext()
+   at System.Linq.Enumerable.Sum(IEnumerable`1 source)
+   at GaussAlgorithm.Solver_Should.AssertIsSolution(Double[] actual, Double[][] matrix, Double[] freeMembers, Double accuracy) in C:\Users\thegr\Desktop\projects\С#\ulearn\PartTwo\LINQ\Gauss\Solver_Should.cs:line 197
+   at GaussAlgorithm.Solver_Should.AssertIsSolvable(Int32 columnCount, Double[] values) in C:\Users\thegr\Desktop\projects\С#\ulearn\PartTwo\LINQ\Gauss\Solver_Should.cs:line 131
+   at GaussAlgorithm.Solver_Should.SolveCommonCases_3x3(Int32 columnCount, Double[] values) in C:\Users\thegr\Desktop\projects\С#\ulearn\PartTwo\LINQ\Gauss\Solver_Should.cs:line 70]]></stack-trace>
+            </failure>
+            <output><![CDATA[2	4	0	6
+0	0	1	1
+0	0	0	0
+]]></output>
+          </test-case>
+          <test-case id="1020" name="SolveCommonCases_3x3(3,1.0d,1.0d,3.0d,5,1.0d,3.0d,1.0d,5,1.0d,2.0d,6.0d,9,2.0d,4.0d,12.0d,18)" fullname="GaussAlgorithm.Solver_Should.SolveCommonCases_3x3(3,1.0d,1.0d,3.0d,5,1.0d,3.0d,1.0d,5,1.0d,2.0d,6.0d,9,2.0d,4.0d,12.0d,18)" methodname="SolveCommonCases_3x3" classname="GaussAlgorithm.Solver_Should" runstate="Runnable" seed="1981974890" result="Failed" label="Error" start-time="2023-04-01T13:54:52.2959541Z" end-time="2023-04-01T13:54:52.2964695Z" duration="0.000516" asserts="0">
+            <failure>
+              <message><![CDATA[System.IndexOutOfRangeException : Index was outside the bounds of the array.]]></message>
+              <stack-trace><![CDATA[   at GaussAlgorithm.Solver_Should.<>c__DisplayClass16_0.<AssertIsSolution>b__0(Double element, Int32 j) in C:\Users\thegr\Desktop\projects\С#\ulearn\PartTwo\LINQ\Gauss\Solver_Should.cs:line 197
+   at System.Linq.Enumerable.SelectIterator[TSource,TResult](IEnumerable`1 source, Func`3 selector)+MoveNext()
+   at System.Linq.Enumerable.Sum(IEnumerable`1 source)
+   at GaussAlgorithm.Solver_Should.AssertIsSolution(Double[] actual, Double[][] matrix, Double[] freeMembers, Double accuracy) in C:\Users\thegr\Desktop\projects\С#\ulearn\PartTwo\LINQ\Gauss\Solver_Should.cs:line 197
+   at GaussAlgorithm.Solver_Should.AssertIsSolvable(Int32 columnCount, Double[] values) in C:\Users\thegr\Desktop\projects\С#\ulearn\PartTwo\LINQ\Gauss\Solver_Should.cs:line 131
+   at GaussAlgorithm.Solver_Should.SolveCommonCases_3x3(Int32 columnCount, Double[] values) in C:\Users\thegr\Desktop\projects\С#\ulearn\PartTwo\LINQ\Gauss\Solver_Should.cs:line 70]]></stack-trace>
+            </failure>
+            <output><![CDATA[1	0	0	1
+0	2	0	2
+0	0	4	4
+0	0	0	0
+]]></output>
+          </test-case>
+        </test-suite>
+        <test-suite type="ParameterizedMethod" id="1028" name="SolveRandomMatrix" fullname="GaussAlgorithm.Solver_Should.SolveRandomMatrix" classname="GaussAlgorithm.Solver_Should" runstate="Runnable" testcasecount="6" result="Failed" site="Child" start-time="2023-04-01T13:54:52.2964986Z" end-time="2023-04-01T13:54:52.3028079Z" duration="0.006309" total="6" passed="0" failed="6" warnings="0" inconclusive="0" skipped="0" asserts="0">
+          <properties>
+            <property name="Repeat" value="500" />
+          </properties>
+          <failure>
+            <message><![CDATA[One or more child tests had errors]]></message>
+          </failure>
+          <test-case id="1022" name="SolveRandomMatrix(2,2)" fullname="GaussAlgorithm.Solver_Should.SolveRandomMatrix(2,2)" methodname="SolveRandomMatrix" classname="GaussAlgorithm.Solver_Should" runstate="Runnable" seed="1563075118" result="Failed" label="Error" start-time="2023-04-01T13:54:52.2965135Z" end-time="2023-04-01T13:54:52.2978382Z" duration="0.001325" asserts="0">
+            <failure>
+              <message><![CDATA[System.IndexOutOfRangeException : Index was outside the bounds of the array.]]></message>
+              <stack-trace><![CDATA[   at GaussAlgorithm.Solver_Should.<>c__DisplayClass16_0.<AssertIsSolution>b__0(Double element, Int32 j) in C:\Users\thegr\Desktop\projects\С#\ulearn\PartTwo\LINQ\Gauss\Solver_Should.cs:line 197
+   at System.Linq.Enumerable.SelectIterator[TSource,TResult](IEnumerable`1 source, Func`3 selector)+MoveNext()
+   at System.Linq.Enumerable.Sum(IEnumerable`1 source)
+   at GaussAlgorithm.Solver_Should.AssertIsSolution(Double[] actual, Double[][] matrix, Double[] freeMembers, Double accuracy) in C:\Users\thegr\Desktop\projects\С#\ulearn\PartTwo\LINQ\Gauss\Solver_Should.cs:line 197
+   at GaussAlgorithm.Solver_Should.SolveRandomMatrix(Int32 rows, Int32 columns) in C:\Users\thegr\Desktop\projects\С#\ulearn\PartTwo\LINQ\Gauss\Solver_Should.cs:line 84]]></stack-trace>
+            </failure>
+            <output><![CDATA[659	0	28489,781797946664
+0	679,0075872534142	-26495,007587253414
+]]></output>
+          </test-case>
+          <test-case id="1023" name="SolveRandomMatrix(3,3)" fullname="GaussAlgorithm.Solver_Should.SolveRandomMatrix(3,3)" methodname="SolveRandomMatrix" classname="GaussAlgorithm.Solver_Should" runstate="Runnable" seed="1062026945" result="Failed" label="Error" start-time="2023-04-01T13:54:52.2978546Z" end-time="2023-04-01T13:54:52.2985267Z" duration="0.000672" asserts="0">
+            <failure>
+              <message><![CDATA[System.IndexOutOfRangeException : Index was outside the bounds of the array.]]></message>
+              <stack-trace><![CDATA[   at GaussAlgorithm.Solver_Should.<>c__DisplayClass16_0.<AssertIsSolution>b__0(Double element, Int32 j) in C:\Users\thegr\Desktop\projects\С#\ulearn\PartTwo\LINQ\Gauss\Solver_Should.cs:line 197
+   at System.Linq.Enumerable.SelectIterator[TSource,TResult](IEnumerable`1 source, Func`3 selector)+MoveNext()
+   at System.Linq.Enumerable.Sum(IEnumerable`1 source)
+   at GaussAlgorithm.Solver_Should.AssertIsSolution(Double[] actual, Double[][] matrix, Double[] freeMembers, Double accuracy) in C:\Users\thegr\Desktop\projects\С#\ulearn\PartTwo\LINQ\Gauss\Solver_Should.cs:line 197
+   at GaussAlgorithm.Solver_Should.SolveRandomMatrix(Int32 rows, Int32 columns) in C:\Users\thegr\Desktop\projects\С#\ulearn\PartTwo\LINQ\Gauss\Solver_Should.cs:line 84]]></stack-trace>
+            </failure>
+            <output><![CDATA[335	0	0	141304,4221512937
+0	-520,0805970149254	0	122528,32046782444
+0	0	480,23608855114287	-54994,36588473659
+]]></output>
+          </test-case>
+          <test-case id="1024" name="SolveRandomMatrix(4,4)" fullname="GaussAlgorithm.Solver_Should.SolveRandomMatrix(4,4)" methodname="SolveRandomMatrix" classname="GaussAlgorithm.Solver_Should" runstate="Runnable" seed="1590919746" result="Failed" label="Error" start-time="2023-04-01T13:54:52.2985435Z" end-time="2023-04-01T13:54:52.2990422Z" duration="0.000499" asserts="0">
+            <failure>
+              <message><![CDATA[System.IndexOutOfRangeException : Index was outside the bounds of the array.]]></message>
+              <stack-trace><![CDATA[   at GaussAlgorithm.Solver_Should.<>c__DisplayClass16_0.<AssertIsSolution>b__0(Double element, Int32 j) in C:\Users\thegr\Desktop\projects\С#\ulearn\PartTwo\LINQ\Gauss\Solver_Should.cs:line 197
+   at System.Linq.Enumerable.SelectIterator[TSource,TResult](IEnumerable`1 source, Func`3 selector)+MoveNext()
+   at System.Linq.Enumerable.Sum(IEnumerable`1 source)
+   at GaussAlgorithm.Solver_Should.AssertIsSolution(Double[] actual, Double[][] matrix, Double[] freeMembers, Double accuracy) in C:\Users\thegr\Desktop\projects\С#\ulearn\PartTwo\LINQ\Gauss\Solver_Should.cs:line 197
+   at GaussAlgorithm.Solver_Should.SolveRandomMatrix(Int32 rows, Int32 columns) in C:\Users\thegr\Desktop\projects\С#\ulearn\PartTwo\LINQ\Gauss\Solver_Should.cs:line 84]]></stack-trace>
+            </failure>
+            <output><![CDATA[364	0	0	0	-12305,489301218178
+0	-1356,0384615384617	0	0	-77584,85535421473
+0	0	-32,7752219417423	0	1390,0877443692225
+0	0	0	5169,574656702014	-170386,63852428657
+]]></output>
+          </test-case>
+          <test-case id="1025" name="SolveRandomMatrix(5,5)" fullname="GaussAlgorithm.Solver_Should.SolveRandomMatrix(5,5)" methodname="SolveRandomMatrix" classname="GaussAlgorithm.Solver_Should" runstate="Runnable" seed="1425128112" result="Failed" label="Error" start-time="2023-04-01T13:54:52.2990525Z" end-time="2023-04-01T13:54:52.3000245Z" duration="0.000972" asserts="0">
+            <failure>
+              <message><![CDATA[System.IndexOutOfRangeException : Index was outside the bounds of the array.]]></message>
+              <stack-trace><![CDATA[   at GaussAlgorithm.Solver_Should.<>c__DisplayClass16_0.<AssertIsSolution>b__0(Double element, Int32 j) in C:\Users\thegr\Desktop\projects\С#\ulearn\PartTwo\LINQ\Gauss\Solver_Should.cs:line 197
+   at System.Linq.Enumerable.SelectIterator[TSource,TResult](IEnumerable`1 source, Func`3 selector)+MoveNext()
+   at System.Linq.Enumerable.Sum(IEnumerable`1 source)
+   at GaussAlgorithm.Solver_Should.AssertIsSolution(Double[] actual, Double[][] matrix, Double[] freeMembers, Double accuracy) in C:\Users\thegr\Desktop\projects\С#\ulearn\PartTwo\LINQ\Gauss\Solver_Should.cs:line 197
+   at GaussAlgorithm.Solver_Should.SolveRandomMatrix(Int32 rows, Int32 columns) in C:\Users\thegr\Desktop\projects\С#\ulearn\PartTwo\LINQ\Gauss\Solver_Should.cs:line 84]]></stack-trace>
+            </failure>
+            <output><![CDATA[-829	0	0	-4,547473508864641E-13	0	-176475,21023979667
+0	549,8890229191798	0	0	0	47592,18647262181
+0	0	-599,486603284356	0	1,1368683772161603E-13	-50265,05793476796
+0	0	0	-2249,4870597478284	0	-39593,34214997188
+0	0	0	0	-1663,9128668413096	-48175,52920711707
+]]></output>
+          </test-case>
+          <test-case id="1026" name="SolveRandomMatrix(10,10)" fullname="GaussAlgorithm.Solver_Should.SolveRandomMatrix(10,10)" methodname="SolveRandomMatrix" classname="GaussAlgorithm.Solver_Should" runstate="Runnable" seed="1294500216" result="Failed" label="Error" start-time="2023-04-01T13:54:52.3002495Z" end-time="2023-04-01T13:54:52.3018347Z" duration="0.001586" asserts="0">
+            <failure>
+              <message><![CDATA[System.IndexOutOfRangeException : Index was outside the bounds of the array.]]></message>
+              <stack-trace><![CDATA[   at GaussAlgorithm.Solver_Should.<>c__DisplayClass16_0.<AssertIsSolution>b__0(Double element, Int32 j) in C:\Users\thegr\Desktop\projects\С#\ulearn\PartTwo\LINQ\Gauss\Solver_Should.cs:line 197
+   at System.Linq.Enumerable.SelectIterator[TSource,TResult](IEnumerable`1 source, Func`3 selector)+MoveNext()
+   at System.Linq.Enumerable.Sum(IEnumerable`1 source)
+   at GaussAlgorithm.Solver_Should.AssertIsSolution(Double[] actual, Double[][] matrix, Double[] freeMembers, Double accuracy) in C:\Users\thegr\Desktop\projects\С#\ulearn\PartTwo\LINQ\Gauss\Solver_Should.cs:line 197
+   at GaussAlgorithm.Solver_Should.SolveRandomMatrix(Int32 rows, Int32 columns) in C:\Users\thegr\Desktop\projects\С#\ulearn\PartTwo\LINQ\Gauss\Solver_Should.cs:line 84]]></stack-trace>
+            </failure>
+            <output><![CDATA[0	0	0	0	0	0	0	4,1401560454918154E+18	-2,4864141574458245E+19	-8,574280516816353E+17	2,1389058684947351E+21
+0	0	0	0	0	0	0	-1,7281620480673326E+18	1,6740994535486213E+18	-3,487673186473088E+17	1,6566884769974347E+20
+0	0	-463,4266029974399	0	0	0	0	213,78449957712985	558,994989183724	-21,89594642768751	33012,38874598739
+0	0	0	0	0	0	0	2,341410912901878E+18	6,317210558144061E+19	-1,7076523477315328E+19	-4,5151610604910396E+21
+0	0	0	0	1390,869604873484	1,1368683772161603E-13	0	196,14023199284554	2895,1460073075823	-1304,8864180628393	-173331,6233429528
+-5,684341886080802E-14	0	0	0	0	0	0	388,99276734379805	-2336,136882861753	-80,56056509875322	200963,17716807703
+0	1,1368683772161603E-13	0	0	0	0	0	-683,8530240816286	662,4598516111027	-138,01112333448805	65557,01337284228
+0	0	0	0	0	4946,246234867289	0	2692,2815314733098	7020,412579333612	-5424,88188795294	-1323646,0638929743
+0	0	0	-4,547473508864641E-13	-1,1368683772161603E-13	0	0	439,1821654131404	11849,292223798238	-3203,0706430768005	-846915,934665178
+0	0	0	0	0	0	-429,2434418712762	-560,5962531698367	-1908,5726361048019	322,35569271665645	90579,78706491465
+]]></output>
+          </test-case>
+          <test-case id="1027" name="SolveRandomMatrix(3,5)" fullname="GaussAlgorithm.Solver_Should.SolveRandomMatrix(3,5)" methodname="SolveRandomMatrix" classname="GaussAlgorithm.Solver_Should" runstate="Runnable" seed="1079457955" result="Failed" label="Error" start-time="2023-04-01T13:54:52.3018720Z" end-time="2023-04-01T13:54:52.3027639Z" duration="0.000892" asserts="0">
+            <failure>
+              <message><![CDATA[System.IndexOutOfRangeException : Index was outside the bounds of the array.]]></message>
+              <stack-trace><![CDATA[   at GaussAlgorithm.Solver_Should.<>c__DisplayClass16_0.<AssertIsSolution>b__0(Double element, Int32 j) in C:\Users\thegr\Desktop\projects\С#\ulearn\PartTwo\LINQ\Gauss\Solver_Should.cs:line 197
+   at System.Linq.Enumerable.SelectIterator[TSource,TResult](IEnumerable`1 source, Func`3 selector)+MoveNext()
+   at System.Linq.Enumerable.Sum(IEnumerable`1 source)
+   at GaussAlgorithm.Solver_Should.AssertIsSolution(Double[] actual, Double[][] matrix, Double[] freeMembers, Double accuracy) in C:\Users\thegr\Desktop\projects\С#\ulearn\PartTwo\LINQ\Gauss\Solver_Should.cs:line 197
+   at GaussAlgorithm.Solver_Should.SolveRandomMatrix(Int32 rows, Int32 columns) in C:\Users\thegr\Desktop\projects\С#\ulearn\PartTwo\LINQ\Gauss\Solver_Should.cs:line 84]]></stack-trace>
+            </failure>
+            <output><![CDATA[423	0	0	-296,89692091911814	330,5428804320783	-38898,53841521194
+0	1014,643026004728	1,1368683772161603E-13	605,534785930339	1409,2943039361917	-146814,78792408592
+0	0	-1110,283480197766	339,8525631765589	-558,7540226564213	-96519,92492206319
+]]></output>
+          </test-case>
+        </test-suite>
+        <test-suite type="ParameterizedMethod" id="1032" name="ThrowsException_WhenNoSolution" fullname="GaussAlgorithm.Solver_Should.ThrowsException_WhenNoSolution" classname="GaussAlgorithm.Solver_Should" runstate="Runnable" testcasecount="3" result="Failed" site="Child" start-time="2023-04-01T13:54:52.3028318Z" end-time="2023-04-01T13:54:52.3075550Z" duration="0.004723" total="3" passed="0" failed="3" warnings="0" inconclusive="0" skipped="0" asserts="3">
+          <failure>
+            <message><![CDATA[One or more child tests had errors]]></message>
+          </failure>
+          <test-case id="1029" name="ThrowsException_WhenNoSolution(1,1,1,1,-1)" fullname="GaussAlgorithm.Solver_Should.ThrowsException_WhenNoSolution(1,1,1,1,-1)" methodname="ThrowsException_WhenNoSolution" classname="GaussAlgorithm.Solver_Should" runstate="Runnable" seed="1588380059" result="Failed" start-time="2023-04-01T13:54:52.3028779Z" end-time="2023-04-01T13:54:52.3063848Z" duration="0.003507" asserts="1">
+            <failure>
+              <message><![CDATA[  Expected: <GaussAlgorithm.NoSolutionException>
+  But was:  null
+]]></message>
+              <stack-trace><![CDATA[   at GaussAlgorithm.Solver_Should.ThrowsException_WhenNoSolution(Int32 columnCount, Double[] args) in C:\Users\thegr\Desktop\projects\С#\ulearn\PartTwo\LINQ\Gauss\Solver_Should.cs:line 101
+]]></stack-trace>
+            </failure>
+            <output><![CDATA[1	0
+0	-2
+]]></output>
+            <assertions>
+              <assertion result="Failed">
+                <message><![CDATA[  Expected: <GaussAlgorithm.NoSolutionException>
+  But was:  null
+]]></message>
+                <stack-trace><![CDATA[   at GaussAlgorithm.Solver_Should.ThrowsException_WhenNoSolution(Int32 columnCount, Double[] args) in C:\Users\thegr\Desktop\projects\С#\ulearn\PartTwo\LINQ\Gauss\Solver_Should.cs:line 101
+]]></stack-trace>
+              </assertion>
+            </assertions>
+          </test-case>
+          <test-case id="1030" name="ThrowsException_WhenNoSolution(2,1,2,42,2,4,42)" fullname="GaussAlgorithm.Solver_Should.ThrowsException_WhenNoSolution(2,1,2,42,2,4,42)" methodname="ThrowsException_WhenNoSolution" classname="GaussAlgorithm.Solver_Should" runstate="Runnable" seed="1346372448" result="Failed" start-time="2023-04-01T13:54:52.3063997Z" end-time="2023-04-01T13:54:52.3069912Z" duration="0.000592" asserts="1">
+            <failure>
+              <message><![CDATA[  Expected: <GaussAlgorithm.NoSolutionException>
+  But was:  null
+]]></message>
+              <stack-trace><![CDATA[   at GaussAlgorithm.Solver_Should.ThrowsException_WhenNoSolution(Int32 columnCount, Double[] args) in C:\Users\thegr\Desktop\projects\С#\ulearn\PartTwo\LINQ\Gauss\Solver_Should.cs:line 101
+]]></stack-trace>
+            </failure>
+            <output><![CDATA[1	2	0
+0	0	-42
+]]></output>
+            <assertions>
+              <assertion result="Failed">
+                <message><![CDATA[  Expected: <GaussAlgorithm.NoSolutionException>
+  But was:  null
+]]></message>
+                <stack-trace><![CDATA[   at GaussAlgorithm.Solver_Should.ThrowsException_WhenNoSolution(Int32 columnCount, Double[] args) in C:\Users\thegr\Desktop\projects\С#\ulearn\PartTwo\LINQ\Gauss\Solver_Should.cs:line 101
+]]></stack-trace>
+              </assertion>
+            </assertions>
+          </test-case>
+          <test-case id="1031" name="ThrowsException_WhenNoSolution(3,2,4,6,12,1,2,3,6,1,2,3,7,1,1,3,5)" fullname="GaussAlgorithm.Solver_Should.ThrowsException_WhenNoSolution(3,2,4,6,12,1,2,3,6,1,2,3,7,1,1,3,5)" methodname="ThrowsException_WhenNoSolution" classname="GaussAlgorithm.Solver_Should" runstate="Runnable" seed="1030322212" result="Failed" start-time="2023-04-01T13:54:52.3070003Z" end-time="2023-04-01T13:54:52.3075446Z" duration="0.000544" asserts="1">
+            <failure>
+              <message><![CDATA[  Expected: <GaussAlgorithm.NoSolutionException>
+  But was:  null
+]]></message>
+              <stack-trace><![CDATA[   at GaussAlgorithm.Solver_Should.ThrowsException_WhenNoSolution(Int32 columnCount, Double[] args) in C:\Users\thegr\Desktop\projects\С#\ulearn\PartTwo\LINQ\Gauss\Solver_Should.cs:line 101
+]]></stack-trace>
+            </failure>
+            <output><![CDATA[2	0	6	0
+0	0	0	0
+0	0	0	1
+0	-1	0	0
+]]></output>
+            <assertions>
+              <assertion result="Failed">
+                <message><![CDATA[  Expected: <GaussAlgorithm.NoSolutionException>
+  But was:  null
+]]></message>
+                <stack-trace><![CDATA[   at GaussAlgorithm.Solver_Should.ThrowsException_WhenNoSolution(Int32 columnCount, Double[] args) in C:\Users\thegr\Desktop\projects\С#\ulearn\PartTwo\LINQ\Gauss\Solver_Should.cs:line 101
+]]></stack-trace>
+              </assertion>
+            </assertions>
+          </test-case>
+        </test-suite>
+        <test-suite type="ParameterizedMethod" id="1038" name="ThrowsException_WhenNoSolutionOnRandomMatrix" fullname="GaussAlgorithm.Solver_Should.ThrowsException_WhenNoSolutionOnRandomMatrix" classname="GaussAlgorithm.Solver_Should" runstate="Runnable" testcasecount="5" result="Failed" site="Child" start-time="2023-04-01T13:54:52.3075649Z" end-time="2023-04-01T13:54:52.3114621Z" duration="0.003897" total="5" passed="0" failed="5" warnings="0" inconclusive="0" skipped="0" asserts="5">
+          <failure>
+            <message><![CDATA[One or more child tests had errors]]></message>
+          </failure>
+          <test-case id="1033" name="ThrowsException_WhenNoSolutionOnRandomMatrix(10)" fullname="GaussAlgorithm.Solver_Should.ThrowsException_WhenNoSolutionOnRandomMatrix(10)" methodname="ThrowsException_WhenNoSolutionOnRandomMatrix" classname="GaussAlgorithm.Solver_Should" runstate="Runnable" seed="1126312212" result="Failed" start-time="2023-04-01T13:54:52.3075765Z" end-time="2023-04-01T13:54:52.3084453Z" duration="0.000869" asserts="1">
+            <failure>
+              <message><![CDATA[  Expected: <GaussAlgorithm.NoSolutionException>
+  But was:  null
+]]></message>
+              <stack-trace><![CDATA[   at GaussAlgorithm.Solver_Should.ThrowsException_WhenNoSolutionOnRandomMatrix(Int32 matrixSize) in C:\Users\thegr\Desktop\projects\С#\ulearn\PartTwo\LINQ\Gauss\Solver_Should.cs:line 112
+]]></stack-trace>
+            </failure>
+            <output><![CDATA[0	0	0	0	0	0	0	2,3314835168163927E+18	1,6497990882636167E+19	-2,390111288033471E+19	0
+0	39,125760649087226	0	0	0	0	0	-55,56769983629785	6,632365036744778	-17,55856350857088	0
+-5,684341886080802E-14	0	0	0	0	0	0	-544,427161468326	16,167577494588507	-1518,618026154169	0
+0	0	0	0	0	0	0	1,0933736505131668E+18	2,5357246254645914E+18	-1,6633610700261896E+18	0
+0	0	0	103,32178552604091	0	0	-1,4210854715202004E-14	38,8898992271352	-47,14789353214463	-125,24813632459961	0
+0	0	0	0	-13372,447097793418	0	0	17637,168335629874	34987,07637129461	-43239,758769548986	0
+0	0	-1,8189894035458565E-12	0	0	0	0	-783,0704779635718	-1816,0773249973638	1191,293523051395	0
+0	0	0	0	0	-2090,5681043947184	0	-3859,372925504489	-4474,281193565391	9749,098919811962	0
+0	0	0	0	0	0	1900,8949907425654	-2364,2029053335036	-151,63076776467506	2609,2046980185587	0
+0	0	0	0	0	0	0	0	0	0	-1
+]]></output>
+            <assertions>
+              <assertion result="Failed">
+                <message><![CDATA[  Expected: <GaussAlgorithm.NoSolutionException>
+  But was:  null
+]]></message>
+                <stack-trace><![CDATA[   at GaussAlgorithm.Solver_Should.ThrowsException_WhenNoSolutionOnRandomMatrix(Int32 matrixSize) in C:\Users\thegr\Desktop\projects\С#\ulearn\PartTwo\LINQ\Gauss\Solver_Should.cs:line 112
+]]></stack-trace>
+              </assertion>
+            </assertions>
+          </test-case>
+          <test-case id="1034" name="ThrowsException_WhenNoSolutionOnRandomMatrix(5)" fullname="GaussAlgorithm.Solver_Should.ThrowsException_WhenNoSolutionOnRandomMatrix(5)" methodname="ThrowsException_WhenNoSolutionOnRandomMatrix" classname="GaussAlgorithm.Solver_Should" runstate="Runnable" seed="211981473" result="Failed" start-time="2023-04-01T13:54:52.3084548Z" end-time="2023-04-01T13:54:52.3090137Z" duration="0.000559" asserts="1">
+            <failure>
+              <message><![CDATA[  Expected: <GaussAlgorithm.NoSolutionException>
+  But was:  null
+]]></message>
+              <stack-trace><![CDATA[   at GaussAlgorithm.Solver_Should.ThrowsException_WhenNoSolutionOnRandomMatrix(Int32 matrixSize) in C:\Users\thegr\Desktop\projects\С#\ulearn\PartTwo\LINQ\Gauss\Solver_Should.cs:line 112
+]]></stack-trace>
+            </failure>
+            <output><![CDATA[0	-4096	0	8,185018918444906E+18	-6,561445550420011E+19	0
+1,4210854715202004E-14	0	-2,842170943040401E-14	278,2682169645941	-2230,7117090604647	0
+0	-207,49521531100478	0	-200,54317503306447	-328,5950467090599	0
+0	0	0	0	0	-1
+0	0	318,55644333759926	-476,94914277149405	266,6721201849354	0
+]]></output>
+            <assertions>
+              <assertion result="Failed">
+                <message><![CDATA[  Expected: <GaussAlgorithm.NoSolutionException>
+  But was:  null
+]]></message>
+                <stack-trace><![CDATA[   at GaussAlgorithm.Solver_Should.ThrowsException_WhenNoSolutionOnRandomMatrix(Int32 matrixSize) in C:\Users\thegr\Desktop\projects\С#\ulearn\PartTwo\LINQ\Gauss\Solver_Should.cs:line 112
+]]></stack-trace>
+              </assertion>
+            </assertions>
+          </test-case>
+          <test-case id="1035" name="ThrowsException_WhenNoSolutionOnRandomMatrix(4)" fullname="GaussAlgorithm.Solver_Should.ThrowsException_WhenNoSolutionOnRandomMatrix(4)" methodname="ThrowsException_WhenNoSolutionOnRandomMatrix" classname="GaussAlgorithm.Solver_Should" runstate="Runnable" seed="1907342069" result="Failed" start-time="2023-04-01T13:54:52.3090227Z" end-time="2023-04-01T13:54:52.3095731Z" duration="0.000551" asserts="1">
+            <failure>
+              <message><![CDATA[  Expected: <GaussAlgorithm.NoSolutionException>
+  But was:  null
+]]></message>
+              <stack-trace><![CDATA[   at GaussAlgorithm.Solver_Should.ThrowsException_WhenNoSolutionOnRandomMatrix(Int32 matrixSize) in C:\Users\thegr\Desktop\projects\С#\ulearn\PartTwo\LINQ\Gauss\Solver_Should.cs:line 112
+]]></stack-trace>
+            </failure>
+            <output><![CDATA[0	0	5,419257795195904E+18	8,546400471988086E+18	0
+0	0	0	0	1
+0	777,5234899328859	-682,6912751677851	-656,1476510067114	0
+5,684341886080802E-14	5,684341886080802E-14	-2067,443897765233	-3260,44712604984	0
+]]></output>
+            <assertions>
+              <assertion result="Failed">
+                <message><![CDATA[  Expected: <GaussAlgorithm.NoSolutionException>
+  But was:  null
+]]></message>
+                <stack-trace><![CDATA[   at GaussAlgorithm.Solver_Should.ThrowsException_WhenNoSolutionOnRandomMatrix(Int32 matrixSize) in C:\Users\thegr\Desktop\projects\С#\ulearn\PartTwo\LINQ\Gauss\Solver_Should.cs:line 112
+]]></stack-trace>
+              </assertion>
+            </assertions>
+          </test-case>
+          <test-case id="1036" name="ThrowsException_WhenNoSolutionOnRandomMatrix(3)" fullname="GaussAlgorithm.Solver_Should.ThrowsException_WhenNoSolutionOnRandomMatrix(3)" methodname="ThrowsException_WhenNoSolutionOnRandomMatrix" classname="GaussAlgorithm.Solver_Should" runstate="Runnable" seed="1756724112" result="Failed" start-time="2023-04-01T13:54:52.3095823Z" end-time="2023-04-01T13:54:52.3101298Z" duration="0.000548" asserts="1">
+            <failure>
+              <message><![CDATA[  Expected: <GaussAlgorithm.NoSolutionException>
+  But was:  null
+]]></message>
+              <stack-trace><![CDATA[   at GaussAlgorithm.Solver_Should.ThrowsException_WhenNoSolutionOnRandomMatrix(Int32 matrixSize) in C:\Users\thegr\Desktop\projects\С#\ulearn\PartTwo\LINQ\Gauss\Solver_Should.cs:line 112
+]]></stack-trace>
+            </failure>
+            <output><![CDATA[0	6,803171022259355E+18	1,5790394349746913E+18	0
+1,1368683772161603E-13	5022,279220779221	1165,6883116883118	0
+0	0	0	1
+]]></output>
+            <assertions>
+              <assertion result="Failed">
+                <message><![CDATA[  Expected: <GaussAlgorithm.NoSolutionException>
+  But was:  null
+]]></message>
+                <stack-trace><![CDATA[   at GaussAlgorithm.Solver_Should.ThrowsException_WhenNoSolutionOnRandomMatrix(Int32 matrixSize) in C:\Users\thegr\Desktop\projects\С#\ulearn\PartTwo\LINQ\Gauss\Solver_Should.cs:line 112
+]]></stack-trace>
+              </assertion>
+            </assertions>
+          </test-case>
+          <test-case id="1037" name="ThrowsException_WhenNoSolutionOnRandomMatrix(2)" fullname="GaussAlgorithm.Solver_Should.ThrowsException_WhenNoSolutionOnRandomMatrix(2)" methodname="ThrowsException_WhenNoSolutionOnRandomMatrix" classname="GaussAlgorithm.Solver_Should" runstate="Runnable" seed="1866053041" result="Failed" start-time="2023-04-01T13:54:52.3101387Z" end-time="2023-04-01T13:54:52.3114417Z" duration="0.001303" asserts="1">
+            <failure>
+              <message><![CDATA[  Expected: <GaussAlgorithm.NoSolutionException>
+  But was:  null
+]]></message>
+              <stack-trace><![CDATA[   at GaussAlgorithm.Solver_Should.ThrowsException_WhenNoSolutionOnRandomMatrix(Int32 matrixSize) in C:\Users\thegr\Desktop\projects\С#\ulearn\PartTwo\LINQ\Gauss\Solver_Should.cs:line 112
+]]></stack-trace>
+            </failure>
+            <output><![CDATA[-373	800	0
+0	0	1
+]]></output>
+            <assertions>
+              <assertion result="Failed">
+                <message><![CDATA[  Expected: <GaussAlgorithm.NoSolutionException>
+  But was:  null
+]]></message>
+                <stack-trace><![CDATA[   at GaussAlgorithm.Solver_Should.ThrowsException_WhenNoSolutionOnRandomMatrix(Int32 matrixSize) in C:\Users\thegr\Desktop\projects\С#\ulearn\PartTwo\LINQ\Gauss\Solver_Should.cs:line 112
+]]></stack-trace>
+              </assertion>
+            </assertions>
+          </test-case>
+        </test-suite>
+      </test-suite>
+    </test-suite>
+  </test-suite>
+</test-run>

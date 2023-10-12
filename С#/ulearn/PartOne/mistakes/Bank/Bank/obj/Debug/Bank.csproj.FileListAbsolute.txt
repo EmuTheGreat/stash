@@ -1,0 +1,16 @@
+C:\Users\thegr\Desktop\projects\С#\Bank\Bank\bin\Debug\Bank.exe.config
+C:\Users\thegr\Desktop\projects\С#\Bank\Bank\bin\Debug\Bank.exe
+C:\Users\thegr\Desktop\projects\С#\Bank\Bank\bin\Debug\Bank.pdb
+C:\Users\thegr\Desktop\projects\С#\Bank\Bank\obj\Debug\Bank.csproj.AssemblyReference.cache
+C:\Users\thegr\Desktop\projects\С#\Bank\Bank\obj\Debug\Bank.csproj.SuggestedBindingRedirects.cache
+C:\Users\thegr\Desktop\projects\С#\Bank\Bank\obj\Debug\Bank.csproj.CoreCompileInputs.cache
+C:\Users\thegr\Desktop\projects\С#\Bank\Bank\obj\Debug\Bank.exe
+C:\Users\thegr\Desktop\projects\С#\Bank\Bank\obj\Debug\Bank.pdb
+C:\Users\thegr\Desktop\projects\С#\mistakes\Bank\Bank\bin\Debug\Bank.exe.config
+C:\Users\thegr\Desktop\projects\С#\mistakes\Bank\Bank\bin\Debug\Bank.exe
+C:\Users\thegr\Desktop\projects\С#\mistakes\Bank\Bank\bin\Debug\Bank.pdb
+C:\Users\thegr\Desktop\projects\С#\mistakes\Bank\Bank\obj\Debug\Bank.csproj.AssemblyReference.cache
+C:\Users\thegr\Desktop\projects\С#\mistakes\Bank\Bank\obj\Debug\Bank.csproj.SuggestedBindingRedirects.cache
+C:\Users\thegr\Desktop\projects\С#\mistakes\Bank\Bank\obj\Debug\Bank.csproj.CoreCompileInputs.cache
+C:\Users\thegr\Desktop\projects\С#\mistakes\Bank\Bank\obj\Debug\Bank.exe
+C:\Users\thegr\Desktop\projects\С#\mistakes\Bank\Bank\obj\Debug\Bank.pdb

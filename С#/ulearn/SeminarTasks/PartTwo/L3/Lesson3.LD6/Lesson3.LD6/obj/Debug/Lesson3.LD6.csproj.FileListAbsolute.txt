@@ -1,0 +1,8 @@
+C:\Users\thegr\Desktop\projects\С#\ulearn\SeminarTasks\PartTwo\L3\Lesson3.LD6\Lesson3.LD6\bin\Debug\Lesson3.LD6.exe.config
+C:\Users\thegr\Desktop\projects\С#\ulearn\SeminarTasks\PartTwo\L3\Lesson3.LD6\Lesson3.LD6\bin\Debug\Lesson3.LD6.exe
+C:\Users\thegr\Desktop\projects\С#\ulearn\SeminarTasks\PartTwo\L3\Lesson3.LD6\Lesson3.LD6\bin\Debug\Lesson3.LD6.pdb
+C:\Users\thegr\Desktop\projects\С#\ulearn\SeminarTasks\PartTwo\L3\Lesson3.LD6\Lesson3.LD6\obj\Debug\Lesson3.LD6.csproj.AssemblyReference.cache
+C:\Users\thegr\Desktop\projects\С#\ulearn\SeminarTasks\PartTwo\L3\Lesson3.LD6\Lesson3.LD6\obj\Debug\Lesson3.LD6.csproj.SuggestedBindingRedirects.cache
+C:\Users\thegr\Desktop\projects\С#\ulearn\SeminarTasks\PartTwo\L3\Lesson3.LD6\Lesson3.LD6\obj\Debug\Lesson3.LD6.csproj.CoreCompileInputs.cache
+C:\Users\thegr\Desktop\projects\С#\ulearn\SeminarTasks\PartTwo\L3\Lesson3.LD6\Lesson3.LD6\obj\Debug\Lesson3.LD6.exe
+C:\Users\thegr\Desktop\projects\С#\ulearn\SeminarTasks\PartTwo\L3\Lesson3.LD6\Lesson3.LD6\obj\Debug\Lesson3.LD6.pdb

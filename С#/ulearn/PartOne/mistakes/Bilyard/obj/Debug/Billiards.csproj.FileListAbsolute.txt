@@ -1,0 +1,10 @@
+C:\Users\thegr\Desktop\projects\С#\Bilyard\bin\Debug\Billiards.exe.config
+C:\Users\thegr\Desktop\projects\С#\Bilyard\bin\Debug\Billiards.exe
+C:\Users\thegr\Desktop\projects\С#\Bilyard\bin\Debug\Billiards.pdb
+C:\Users\thegr\Desktop\projects\С#\Bilyard\bin\Debug\TestingRoom.dll
+C:\Users\thegr\Desktop\projects\С#\Bilyard\obj\Debug\Billiards.csproj.AssemblyReference.cache
+C:\Users\thegr\Desktop\projects\С#\Bilyard\obj\Debug\Billiards.csproj.SuggestedBindingRedirects.cache
+C:\Users\thegr\Desktop\projects\С#\Bilyard\obj\Debug\Billiards.csproj.CoreCompileInputs.cache
+C:\Users\thegr\Desktop\projects\С#\Bilyard\obj\Debug\Billiards.csproj.CopyComplete
+C:\Users\thegr\Desktop\projects\С#\Bilyard\obj\Debug\Billiards.exe
+C:\Users\thegr\Desktop\projects\С#\Bilyard\obj\Debug\Billiards.pdb

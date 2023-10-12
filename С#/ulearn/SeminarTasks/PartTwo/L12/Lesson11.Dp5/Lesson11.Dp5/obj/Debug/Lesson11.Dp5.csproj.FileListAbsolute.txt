@@ -1,0 +1,8 @@
+E:\projects\С#\ulearn\SeminarTasks\PartTwo\L12\Lesson11.Dp5\Lesson11.Dp5\bin\Debug\Lesson11.Dp5.exe.config
+E:\projects\С#\ulearn\SeminarTasks\PartTwo\L12\Lesson11.Dp5\Lesson11.Dp5\bin\Debug\Lesson11.Dp5.exe
+E:\projects\С#\ulearn\SeminarTasks\PartTwo\L12\Lesson11.Dp5\Lesson11.Dp5\bin\Debug\Lesson11.Dp5.pdb
+E:\projects\С#\ulearn\SeminarTasks\PartTwo\L12\Lesson11.Dp5\Lesson11.Dp5\obj\Debug\Lesson11.Dp5.csproj.AssemblyReference.cache
+E:\projects\С#\ulearn\SeminarTasks\PartTwo\L12\Lesson11.Dp5\Lesson11.Dp5\obj\Debug\Lesson11.Dp5.csproj.SuggestedBindingRedirects.cache
+E:\projects\С#\ulearn\SeminarTasks\PartTwo\L12\Lesson11.Dp5\Lesson11.Dp5\obj\Debug\Lesson11.Dp5.csproj.CoreCompileInputs.cache
+E:\projects\С#\ulearn\SeminarTasks\PartTwo\L12\Lesson11.Dp5\Lesson11.Dp5\obj\Debug\Lesson11.Dp5.exe
+E:\projects\С#\ulearn\SeminarTasks\PartTwo\L12\Lesson11.Dp5\Lesson11.Dp5\obj\Debug\Lesson11.Dp5.pdb

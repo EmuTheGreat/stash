@@ -1,0 +1,16 @@
+C:\Users\thegr\Desktop\SeminarTasksLesson1\L2\Lesson2.Expr10\Lesson2.Expr10\bin\Debug\Lesson2.Expr10.exe.config
+C:\Users\thegr\Desktop\SeminarTasksLesson1\L2\Lesson2.Expr10\Lesson2.Expr10\bin\Debug\Lesson2.Expr10.exe
+C:\Users\thegr\Desktop\SeminarTasksLesson1\L2\Lesson2.Expr10\Lesson2.Expr10\bin\Debug\Lesson2.Expr10.pdb
+C:\Users\thegr\Desktop\SeminarTasksLesson1\L2\Lesson2.Expr10\Lesson2.Expr10\obj\Debug\Lesson2.Expr10.csproj.AssemblyReference.cache
+C:\Users\thegr\Desktop\SeminarTasksLesson1\L2\Lesson2.Expr10\Lesson2.Expr10\obj\Debug\Lesson2.Expr10.csproj.SuggestedBindingRedirects.cache
+C:\Users\thegr\Desktop\SeminarTasksLesson1\L2\Lesson2.Expr10\Lesson2.Expr10\obj\Debug\Lesson2.Expr10.csproj.CoreCompileInputs.cache
+C:\Users\thegr\Desktop\SeminarTasksLesson1\L2\Lesson2.Expr10\Lesson2.Expr10\obj\Debug\Lesson2.Expr10.exe
+C:\Users\thegr\Desktop\SeminarTasksLesson1\L2\Lesson2.Expr10\Lesson2.Expr10\obj\Debug\Lesson2.Expr10.pdb
+C:\Users\thegr\Desktop\SeminarTasks\L2\Lesson2.Expr10\Lesson2.Expr10\bin\Debug\Lesson2.Expr10.exe.config
+C:\Users\thegr\Desktop\SeminarTasks\L2\Lesson2.Expr10\Lesson2.Expr10\bin\Debug\Lesson2.Expr10.exe
+C:\Users\thegr\Desktop\SeminarTasks\L2\Lesson2.Expr10\Lesson2.Expr10\bin\Debug\Lesson2.Expr10.pdb
+C:\Users\thegr\Desktop\SeminarTasks\L2\Lesson2.Expr10\Lesson2.Expr10\obj\Debug\Lesson2.Expr10.csproj.AssemblyReference.cache
+C:\Users\thegr\Desktop\SeminarTasks\L2\Lesson2.Expr10\Lesson2.Expr10\obj\Debug\Lesson2.Expr10.csproj.SuggestedBindingRedirects.cache
+C:\Users\thegr\Desktop\SeminarTasks\L2\Lesson2.Expr10\Lesson2.Expr10\obj\Debug\Lesson2.Expr10.csproj.CoreCompileInputs.cache
+C:\Users\thegr\Desktop\SeminarTasks\L2\Lesson2.Expr10\Lesson2.Expr10\obj\Debug\Lesson2.Expr10.exe
+C:\Users\thegr\Desktop\SeminarTasks\L2\Lesson2.Expr10\Lesson2.Expr10\obj\Debug\Lesson2.Expr10.pdb

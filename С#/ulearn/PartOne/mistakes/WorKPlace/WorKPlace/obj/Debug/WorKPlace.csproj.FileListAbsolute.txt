@@ -1,0 +1,8 @@
+C:\Users\thegr\Desktop\projects\С#\WorKPlace\WorKPlace\bin\Debug\WorKPlace.exe.config
+C:\Users\thegr\Desktop\projects\С#\WorKPlace\WorKPlace\bin\Debug\WorKPlace.exe
+C:\Users\thegr\Desktop\projects\С#\WorKPlace\WorKPlace\bin\Debug\WorKPlace.pdb
+C:\Users\thegr\Desktop\projects\С#\WorKPlace\WorKPlace\obj\Debug\WorKPlace.csproj.AssemblyReference.cache
+C:\Users\thegr\Desktop\projects\С#\WorKPlace\WorKPlace\obj\Debug\WorKPlace.csproj.SuggestedBindingRedirects.cache
+C:\Users\thegr\Desktop\projects\С#\WorKPlace\WorKPlace\obj\Debug\WorKPlace.csproj.CoreCompileInputs.cache
+C:\Users\thegr\Desktop\projects\С#\WorKPlace\WorKPlace\obj\Debug\WorKPlace.exe
+C:\Users\thegr\Desktop\projects\С#\WorKPlace\WorKPlace\obj\Debug\WorKPlace.pdb

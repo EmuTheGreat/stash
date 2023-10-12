@@ -1,0 +1,8 @@
+C:\Users\thegr\Desktop\projects\С#\ulearn\SeminarTasks\PartTwo\L2\Lesson2.YR1\Lesson2.YR1\Test\bin\Debug\Test.exe.config
+C:\Users\thegr\Desktop\projects\С#\ulearn\SeminarTasks\PartTwo\L2\Lesson2.YR1\Lesson2.YR1\Test\bin\Debug\Test.exe
+C:\Users\thegr\Desktop\projects\С#\ulearn\SeminarTasks\PartTwo\L2\Lesson2.YR1\Lesson2.YR1\Test\bin\Debug\Test.pdb
+C:\Users\thegr\Desktop\projects\С#\ulearn\SeminarTasks\PartTwo\L2\Lesson2.YR1\Lesson2.YR1\Test\obj\Debug\Test.csproj.AssemblyReference.cache
+C:\Users\thegr\Desktop\projects\С#\ulearn\SeminarTasks\PartTwo\L2\Lesson2.YR1\Lesson2.YR1\Test\obj\Debug\Test.csproj.SuggestedBindingRedirects.cache
+C:\Users\thegr\Desktop\projects\С#\ulearn\SeminarTasks\PartTwo\L2\Lesson2.YR1\Lesson2.YR1\Test\obj\Debug\Test.csproj.CoreCompileInputs.cache
+C:\Users\thegr\Desktop\projects\С#\ulearn\SeminarTasks\PartTwo\L2\Lesson2.YR1\Lesson2.YR1\Test\obj\Debug\Test.exe
+C:\Users\thegr\Desktop\projects\С#\ulearn\SeminarTasks\PartTwo\L2\Lesson2.YR1\Lesson2.YR1\Test\obj\Debug\Test.pdb

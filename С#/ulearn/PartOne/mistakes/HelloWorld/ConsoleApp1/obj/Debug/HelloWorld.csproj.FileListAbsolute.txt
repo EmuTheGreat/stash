@@ -1,0 +1,16 @@
+C:\Users\thegr\Desktop\projects\С#\ConsoleApp1\ConsoleApp1\bin\Debug\ConsoleApp1.exe.config
+C:\Users\thegr\Desktop\projects\С#\ConsoleApp1\ConsoleApp1\bin\Debug\ConsoleApp1.exe
+C:\Users\thegr\Desktop\projects\С#\ConsoleApp1\ConsoleApp1\bin\Debug\ConsoleApp1.pdb
+C:\Users\thegr\Desktop\projects\С#\ConsoleApp1\ConsoleApp1\obj\Debug\HelloWorld.csproj.AssemblyReference.cache
+C:\Users\thegr\Desktop\projects\С#\ConsoleApp1\ConsoleApp1\obj\Debug\HelloWorld.csproj.SuggestedBindingRedirects.cache
+C:\Users\thegr\Desktop\projects\С#\ConsoleApp1\ConsoleApp1\obj\Debug\HelloWorld.csproj.CoreCompileInputs.cache
+C:\Users\thegr\Desktop\projects\С#\ConsoleApp1\ConsoleApp1\obj\Debug\ConsoleApp1.exe
+C:\Users\thegr\Desktop\projects\С#\ConsoleApp1\ConsoleApp1\obj\Debug\ConsoleApp1.pdb
+C:\Users\thegr\Desktop\projects\С#\HelloWorld\ConsoleApp1\bin\Debug\ConsoleApp1.exe.config
+C:\Users\thegr\Desktop\projects\С#\HelloWorld\ConsoleApp1\bin\Debug\ConsoleApp1.exe
+C:\Users\thegr\Desktop\projects\С#\HelloWorld\ConsoleApp1\bin\Debug\ConsoleApp1.pdb
+C:\Users\thegr\Desktop\projects\С#\HelloWorld\ConsoleApp1\obj\Debug\HelloWorld.csproj.AssemblyReference.cache
+C:\Users\thegr\Desktop\projects\С#\HelloWorld\ConsoleApp1\obj\Debug\HelloWorld.csproj.SuggestedBindingRedirects.cache
+C:\Users\thegr\Desktop\projects\С#\HelloWorld\ConsoleApp1\obj\Debug\HelloWorld.csproj.CoreCompileInputs.cache
+C:\Users\thegr\Desktop\projects\С#\HelloWorld\ConsoleApp1\obj\Debug\ConsoleApp1.exe
+C:\Users\thegr\Desktop\projects\С#\HelloWorld\ConsoleApp1\obj\Debug\ConsoleApp1.pdb

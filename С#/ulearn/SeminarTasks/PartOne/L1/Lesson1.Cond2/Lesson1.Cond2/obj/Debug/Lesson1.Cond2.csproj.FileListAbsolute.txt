@@ -1,0 +1,8 @@
+C:\Users\thegr\Desktop\projects\С#\SeminarTasks\L1.Cond1\Lesson1.Cond2\Lesson1.Cond2\bin\Debug\Lesson1.Cond2.exe.config
+C:\Users\thegr\Desktop\projects\С#\SeminarTasks\L1.Cond1\Lesson1.Cond2\Lesson1.Cond2\bin\Debug\Lesson1.Cond2.exe
+C:\Users\thegr\Desktop\projects\С#\SeminarTasks\L1.Cond1\Lesson1.Cond2\Lesson1.Cond2\bin\Debug\Lesson1.Cond2.pdb
+C:\Users\thegr\Desktop\projects\С#\SeminarTasks\L1.Cond1\Lesson1.Cond2\Lesson1.Cond2\obj\Debug\Lesson1.Cond2.csproj.AssemblyReference.cache
+C:\Users\thegr\Desktop\projects\С#\SeminarTasks\L1.Cond1\Lesson1.Cond2\Lesson1.Cond2\obj\Debug\Lesson1.Cond2.csproj.SuggestedBindingRedirects.cache
+C:\Users\thegr\Desktop\projects\С#\SeminarTasks\L1.Cond1\Lesson1.Cond2\Lesson1.Cond2\obj\Debug\Lesson1.Cond2.csproj.CoreCompileInputs.cache
+C:\Users\thegr\Desktop\projects\С#\SeminarTasks\L1.Cond1\Lesson1.Cond2\Lesson1.Cond2\obj\Debug\Lesson1.Cond2.exe
+C:\Users\thegr\Desktop\projects\С#\SeminarTasks\L1.Cond1\Lesson1.Cond2\Lesson1.Cond2\obj\Debug\Lesson1.Cond2.pdb

@@ -1,0 +1,9 @@
+C:\Users\thegr\Desktop\projects\С#\ulearn\algorithms\bin\Debug\eurobot.bmp
+C:\Users\thegr\Desktop\projects\С#\ulearn\algorithms\bin\Debug\Recognizer.exe.config
+C:\Users\thegr\Desktop\projects\С#\ulearn\algorithms\bin\Debug\Recognizer.exe
+C:\Users\thegr\Desktop\projects\С#\ulearn\algorithms\bin\Debug\Recognizer.pdb
+C:\Users\thegr\Desktop\projects\С#\ulearn\algorithms\obj\Debug\Image.csproj.AssemblyReference.cache
+C:\Users\thegr\Desktop\projects\С#\ulearn\algorithms\obj\Debug\Image.csproj.SuggestedBindingRedirects.cache
+C:\Users\thegr\Desktop\projects\С#\ulearn\algorithms\obj\Debug\Image.csproj.CoreCompileInputs.cache
+C:\Users\thegr\Desktop\projects\С#\ulearn\algorithms\obj\Debug\Recognizer.exe
+C:\Users\thegr\Desktop\projects\С#\ulearn\algorithms\obj\Debug\Recognizer.pdb
